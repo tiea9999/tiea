@@ -1,0 +1,76 @@
+{
+  "name": "liveTV",
+  "author": "",
+  "info": "",
+  "image": "https://www.2exhd.com/movie/upload/cat_img/l.jpg",
+  "groups": [
+   {
+        "name": "ทีวีดิจิตอล",
+       "image":"https://dl.dropboxusercontent.com/scl/fi/pnnlx2atyz5mqzzbhvdqb/digital_nonTrue.png?rlkey=nxy9r654ziimvec3rybctrx8v&dl=0",
+        "url": "https://raw.githubusercontent.com/tiea9999/tiea-tv/main/digital tv",
+        "import": false
+},
+{
+
+        "name": "Movie Live",
+       "image" : "https://dl.dropboxusercontent.com/scl/fi/q6rf9j2v23xhd0g7yyw8y/Movieonline_nontrue.png?rlkey=6b97yhpzg43tkp9jdprkbh4kr&dl=0",
+        "url": "https://raw.githubusercontent.com/tiea9999/tiea-tv/main/movie live",
+        "import": false
+
+},
+{
+        "name": "ช่องกีฬาไทยกีฬารอบโลก",
+        "image" : "https://dl.dropboxusercontent.com/scl/fi/l8eagp6ijh9333amqpz1u/SPORT_luxdo.png?rlkey=4lnwq9r63hedmbmlbnf3qwris&dl=0",
+        "url": "https://raw.githubusercontent.com/tiea9999/tiea-tv/main/sport tv",
+        "import": false
+},
+{
+        "name": "สารคดี",
+        "image" : "https://dl.dropboxusercontent.com/scl/fi/kkzoz0pda2kbxwcnnk226/Doc_luxdo.png?rlkey=r9msi6i83n4o6e3i4ufv42ufq&dl=0",
+        "url": "https://raw.githubusercontent.com/tiea9999/tiea-tv/main/documentary",
+        "import": false
+},
+{
+       "name": "การ์ตูน",
+       "image" : "https://dl.dropboxusercontent.com/scl/fi/45ojiw52ytel7bvzymtn4/ Cartoon_luxdo.png?rlkey=iekl9fchyovvqgyoov2qssp8c&dl=0",
+       "url": "https://raw.githubusercontent.com/tiea9999/tiea-tv/main/kids",
+		"import": false
+}
+]
+},
+{
+  "name": "Movie",
+  "author": "",
+  "info": "",
+  "image": "https://www.2exhd.com/movie/upload/cat_img/m.jpg",
+  "groups": [
+{
+
+       "name": "MOVIES",
+      "image": "https://dl.dropboxusercontent.com/scl/fi/eawsp4pkzf6yjhsywsm3p/Main_Movie.png?rlkey=jd03yofu3fg9wtc7gi8n9taef&dl=0",
+	"url": "https://raw.githubusercontent.com/tiea9999/tiea-tv/main/real movie",
+       "import": false
+}
+]
+},
+{
+  "name": "Serise",
+  "author": "",
+  "info": "",
+  "image": "https://www.2exhd.com/movie/upload/cat_img/s.jpg",
+  "groups": [
+
+{
+         "name": "Series อยากดู",
+         "image": "https://dl.dropboxusercontent.com/scl/fi/mm985elkdnkhmv3v4bq3l/Series.png?rlkey=sh5wntduka77is1yftni2wzlz&dl=0",
+         "url": "https://raw.githubusercontent.com/tiea9999/tiea-tv/main/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%94%E0%B8%B9",
+          "import": false
+}
+]
+}	                                                                                                                                            
+]
+}
+]
+},	                                                                                                                                            
+]
+}

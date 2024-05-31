@@ -1,9 +1,9 @@
 {
-  "name": "liveTV",
-  "author": "",
-  "info": "",
-  "image": "https://www.2exhd.com/movie/upload/cat_img/l.jpg",
-  "groups": [
+      "name": "TIEA IPTV ",
+       "author": "@เตี้ย18",
+       "url": "https://raw.githubusercontent.com/tiea9999/tiea-tv/main/tiea18",
+       "image": "https://docs.google.com/uc?export=download&id=13NzNVZeTiFjCpn-HKecMvIjJaV9zAIK5",
+       "groups": [
    {
         "name": "ทีวีดิจิตอล",
        "image":"https://dl.dropboxusercontent.com/scl/fi/pnnlx2atyz5mqzzbhvdqb/digital_nonTrue.png?rlkey=nxy9r654ziimvec3rybctrx8v&dl=0",
@@ -38,27 +38,12 @@
 
 },
 {
-  "name": "Movie",
-  "author": "",
-  "info": "",
-  "image": "https://www.2exhd.com/movie/upload/cat_img/m.jpg",
-  "groups": [
-{
 
        "name": "MOVIES",
       "image": "https://dl.dropboxusercontent.com/scl/fi/eawsp4pkzf6yjhsywsm3p/Main_Movie.png?rlkey=jd03yofu3fg9wtc7gi8n9taef&dl=0",
 	"url": "https://raw.githubusercontent.com/tiea9999/tiea-tv/main/real movie",
        "import": false
-}
-]
 },
-{
-  "name": "Serise",
-  "author": "",
-  "info": "",
-  "image": "https://www.2exhd.com/movie/upload/cat_img/s.jpg",
-  "groups": [
-
 {
          "name": "Series อยากดู",
          "image": "https://dl.dropboxusercontent.com/scl/fi/mm985elkdnkhmv3v4bq3l/Series.png?rlkey=sh5wntduka77is1yftni2wzlz&dl=0",

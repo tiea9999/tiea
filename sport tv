@@ -1,0 +1,260 @@
+{
+		"name": "Sport tv",
+		"author": "",
+		"image":"https://www.234.in.th/images/2021/01/19/140554938_737807463828690_1976502965141248595_n.png",
+		"url": "",
+		
+	
+ 
+"stations":[
+{ 
+name:"True Premier Football HD1",
+"author": "",
+image:"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",
+ "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDQ6NDM6NDIgUE0maGFzaF92YWx1ZT1CV0xxUEgvMFo3U2JJS0REOVZyZWtRPT0mdmFsaWRtaW51dGVzPTYw",
+          "referer": "https://doolive4k.tv/"
+},
+{ 
+name:"True Premier Football HD1",
+"author": "",
+image:"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",
+ "url": "https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8",
+          "referer": "https://streaming.livescorethai.net/"
+},
+
+{ 
+name:"True Premier Football HD1",
+"author": "",
+image:"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",
+"url": "https://dookeela.live:443/live-tv/epl1_sd",
+"referer":"https://freetvdd.com/",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"embed":"false"
+},
+
+{
+"name"              :"True Premier Football HD 2",
+"image"             : "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
+"url": "https://dookeela.live:443/live-tv/epl2",
+"referer":"https://freetvdd.com/",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"embed":"false"
+},
+
+{
+"name"              :"True Premier Football HD 2",
+"image"             : "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
+"url": "https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8",
+          "referer": "https://streaming.livescorethai.net/"
+},
+{
+"name"              :"True Premier Football HD 3",
+"image"             : "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
+"url": "https://dookeela.live:443/live-tv/epl3",
+"referer":"https://freetvdd.com/",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"embed":"false"
+},
+
+
+
+
+{
+"name"              :"True Premier Football HD 4",
+"image"        	:"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",
+"url": "https://dookeela.live:443/live-tv/epl4",
+"referer":"https://freetvdd.com/",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"embed":"false"
+},
+{
+name:"True Premier Football HD5",
+"author": "",
+image:"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original.png",
+"url": "https://dookeela.live:443/live-tv/epl5",
+"referer":"https://freetvdd.com/",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"embed":"false"
+},
+
+{
+name:"True Sport HD1",
+"author": "",
+image:"https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
+"url": "https://dookeela.live:443/live-tv/tsp1",
+"referer":"https://freetvdd.com/",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"embed":"false"
+},
+{
+name:"True Sport HD1",
+"author": "",
+image:"https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+
+{
+name:"True Sport HD2",
+"author": "",
+image:"https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+{
+name:"True Sport HD3",
+"author": "",
+image:"https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+{
+"name": "True Sport HD 4 ",
+"image": "https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/"
+},
+{
+
+name:"True Sport HD5",
+"author": "",
+image:"https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+url:"https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/"
+},
+
+{
+name:"True Sport HD7",
+"author": "",
+image:"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+url:"https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
+},
+
+{
+"name": "SPOTV",
+"image": "https://dooball2you.com/wp-content/uploads/2021/10/ช่องspotv1.png",
+"url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
+"referer": "https://www.livedoomovies.com/"
+},
+
+{
+name:"SPOTV 2",
+"image": "https://dooball2you.com/wp-content/uploads/2021/10/spotv2.png",
+"url": "https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
+"referer": "https://www.livedoomovies.com/"
+},
+{
+name:"beIN Sports HD 1",
+image:"https://cms.dmpcdn.com/livetv/2023/06/01/fe27a580-0032-11ee-a673-39b4d2c4a0b2_webp_original.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+
+{
+name:"beIN Sports HD 2",
+image:"https://cms.dmpcdn.com/livetv/2023/06/01/ff208470-0032-11ee-87ee-bf4bd5ef0bda_webp_original.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+{
+name:"beIN Sports HD 3",
+image:"https://cms.dmpcdn.com/livetv/2023/06/01/ff4c0140-0032-11ee-9d8e-fd5a2514fe92_webp_320.webp",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+
+{
+name:"True Tennis HD",
+image:"https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/"
+},
+
+{
+name:"GOLF CHANNEL THAILAND HD+",
+image:"https://cms.dmpcdn.com/livetv/2023/02/06/03e274f0-a5c0-11ed-a1af-731452c47629_webp_320.webp",
+url:"https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/"
+},
+{
+
+name:"MUTV",
+image:"https://assets.manutd.com/AssetPicker/images/0/0/14/188/965666/MUTV_StarTimes_Article_11614244459330_large.jpg",
+url:"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
+"referer": "https://bcovlive-a.akamaihd.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+
+{
+"name"			:	"Liverpool FC TV",
+"image"			:	"https://preview.redd.it/hnjh5mi5tbg71.png?width=1423&format=png&auto=webp&s=cc0b4ea9079a691d1cddd54159c9fcb75b2c5cc6",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{
+name:"LFCTV",
+"author": "",
+image:"https://preview.redd.it/hnjh5mi5tbg71.png?width=1423&format=png&auto=webp&s=cc0b4ea9079a691d1cddd54159c9fcb75b2c5cc6",
+url:"https://ufa77.tv/channel?ch=lfctv&jwsource=cl",
+"referer": "https://ufa77.tv"
+        
+},]}
+{
+"name": "my-asp1hd",
+"image": "https://rentapi.blackboxsys.net/images/png/my-asp1hd.png",
+"imageScale": "fitStart",
+"url": "https://www.dropbox.com/scl/fi/gidfvmjoumonkbcmnodr5/astro-1.m3u8?rlkey=7mlxq8h9l5ja4vzbjccly9vyt&dl=1",
+"referer": "https://dookeela.live:443/",
+"embed":"false",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "my-asp2hd",
+"image": "https://rentapi.blackboxsys.net/images/png/my-asp2hd.png",
+"imageScale": "fitStart",
+"url": "https://www.dropbox.com/scl/fi/oi8e874vs1iaj6pz1gxxn/astro-2.m3u8?rlkey=hsa53mdbyyt419rma2kqijn9o&dl=1",
+"referer": "https://dookeela.live:443/",
+"embed":"false",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "my-asp3hd",
+"image": "https://rentapi.blackboxsys.net/images/png/my-asp3hd.png",
+"imageScale": "fitStart",
+"url": "https://www.dropbox.com/scl/fi/kccf618l3mkwsrkrsfqf9/astro3.m3u8?rlkey=57bvy42vguslyh6city2zzljs&dl=1",
+"referer": "https://dookeela.live:443/",
+"embed":"false",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "my-asp4",
+"image": "https://rentapi.blackboxsys.net/images/png/my-asp4.png",
+"imageScale": "fitStart",
+"url": "https://www.dropbox.com/scl/fi/d4wfr1pyngrbf4sxmyar1/astro4.m3u8?rlkey=h4dkrcnoyve3jt3fl9r979bi0&dl=1",
+"referer": "https://dookeela.live:443/",
+"embed":"false",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "wwe",
+"image": "https://dookeela.live/uploads/1696317392.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live:443/live-tv/wwe",
+"referer": "https://dookeela.live:443/",
+"embed":"false",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "T Sports",
+"image": "https://www.tsports7.com/logo.png",
+"imageScale": "fitStart",
+"url": "https://ctrl.laotv.la/live/TSports7/index.m3u8",
+"referer": "https://dookeela.live:443/",
+"embed":"false",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+]}

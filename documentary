@@ -1,0 +1,213 @@
+{
+		"name": "Documentary",
+		"author": "Playlist Developers",
+		"image":"https://img2.bpicc.com/2021/01/19/139972011_425798738536027_43631429535030256_n.png",
+		"url": "http://tiny.cc/tiea5",
+		
+
+		"stations":[
+
+
+
+
+      
+
+{
+"name": "BBC EARTH",
+"image":"https://scitechinstitute.org/wp-content/uploads/2020/04/bbc-earth.jpg",
+"url":"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw", 
+"referer": "https://freetvdd.com",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name":"Animal Planet ",
+"image":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png", 
+"url": "https://dookeela.live:443/live-tv/animal-planet",
+"referer": "https://ufanance.co/",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+        "embed":"false"
+        },
+
+{
+"name": "Discovery Asia ",  
+"image": "https://dookeela.live/uploads/1706112755.png",  
+"url": "https://dookeela.live:443/live-tv/discovery-asia",
+"referer": "https://freetvdd.com/", "info": "livescorethai", "playInNatPlayer": "true"
+},
+{
+"name": "Discovery Channel ",  
+"image": "https://dookeela.live/uploads/1706112738.png",  
+"url": "https://dookeela.live:443/live-tv/discovery",
+"info": "akamaized",   "playInNatPlayer": true
+},
+{
+"name": "History ",  
+"image": "https://dookeela.live/uploads/1713231372.png",  
+"url": "https://dookeela.live:443/live-tv/history",
+"referer": "https://freetvdd.com/", "info": "livescorethai", "playInNatPlayer": "true"
+},
+
+{ 
+"name":"Animal Show",
+"image":"https://dookeela.live/uploads/1705537126.png", 
+"imageScale": "fitStart",
+"url": "https://dookeela.live:443/live-tv/animalshow",
+"referer": "https://ufanance.co/",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+        "embed":"false"
+},
+{
+"name": "True Explorer LIFE",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://www.dropbox.com/scl/fi/ixqbno0o3ehpazf13ougi/Explore-life.m3u8?rlkey=uj0cn5upx72wqlmyxjtt0xmrf&dl=1",
+"referer": "https://ufanance.co/",
+         "embed":"false",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name": "True Explorer SCI",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://www.dropbox.com/scl/fi/wq6sfehhhri1h67ybatoy/Explore-sci.m3u8?rlkey=q6hz5i7lck0fpmbajp883dje2&dl=1",
+"referer": "https://ufanance.co/",
+         "embed":"false",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+
+{
+"name":"Crime & Investigation (UK)",
+"image":"https://dookeela.live/uploads/1714101661.png", 
+"url":"https://streaming.livescorethai.net/iptv/uk-ci.stream/chunks.m3u8",
+"referer":"https://freetvdd.com/",
+"info":"livescorethai"
+}, 
+ 
+{
+"name":"DMAX (UK)",
+"image":"https://logowik.com/content/uploads/images/dmax-black6397.logowik.com.webp",
+"url":"https://streaming.livescorethai.net/iptv/uk-dmax.stream/chunks.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "livescorethai", 
+"playInNatPlayer": "true"
+},
+ 
+
+{ 
+"name"          :     "  animal kingdom    🇺🇸",
+"image"         :     "https://drive.google.com/uc?id=141Goz5SCvIOicmCdi06hNDmZrEckK1SH",
+"url"		: "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8",
+"info": "", 
+"desktop": "true"
+},
+
+{ 
+"name": "LOVE NATURE 4K 🇺🇸", "image": "https://drive.google.com/uc?id=1oaxRMOnvH5EdRWEObjvWfieQxX_2rTB_", "url":"https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8", "isHost": false },
+
+
+
+
+
+{
+"name": "LOVE Nature 4K",
+"image": "https://drive.google.com/uc?id=1oaxRMOnvH5EdRWEObjvWfieQxX_2rTB_",
+"url": "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+
+
+
+
+ { "name"		: 	"wildearth",
+"image"		: 	"https://drive.google.com/uc?id=1sW4Dpa48M9SsSZNXwh-Du7dQrVWcGIDg",
+"url"			: 	"https://wildearth-roku.amagi.tv/masterR720P.m3u8",
+"referer"		: 	"https://wildearth-roku.amagi.tv",
+"userAgent"		: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer"	: 	"true"},
+
+
+
+
+
+
+
+
+{
+"name": "Asian Food Network 🇹🇭",
+"image": "http://www.2exhd.com/movie/upload/movie_img/ASIAN-FOOD-CHANNEL-CH11773_Thumb.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/", 
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "livescorethai", "desktop": "true"},
+
+
+
+
+
+{
+"name": "Lifetime 🇹🇭",
+"image": "https://cdn6.aptoide.com/imgs/a/3/8/a38651f1a71d578a85646291bba53f03_icon.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/", "info": "Server livescorethai", playInNatPlayer: "true"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"name": "Smithsonian Channel",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png",
+"url": "https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+
+{
+"name": "Samsung Wildlife",
+"image": "https://i0.wp.com/i.blogs.es/20f998/samsung_tv_plus_primary_stacked_logo_coloured_black_rgb/450_1000.webp?ssl=1",
+"url": "https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+{"name"          :  "Arirang World (EN)",
+"image"          :  "https://worldcontentmarket.com/wp-content/uploads/bfi_thumb/ARIRANG_logo-71kh3pxevxg4umplkhscms17oor44oe25rg5uwypjy8.png",
+"url"            :  "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8",
+"referer"        :  "https://amdlive-ch01-ctnd-com.akamaized.net",
+"info"		     :  "   ",
+"playInNatPlayer": "true"
+},
+ 
+{
+"name":"CGTN Documentary",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/220px-CGTN_Documentary_logo.png",
+"url":"https://livedoc.cgtn.com/1000d/prog_index.m3u8",
+"playInNatPlayer": "true"
+},
+
+ {
+"name":"Travel XP (UK)",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/220px-Txphd_logo_2015.png",
+"url":"https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8",
+"playInNatPlayer": "true"
+},]
+}

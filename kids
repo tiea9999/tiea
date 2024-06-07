@@ -1,0 +1,116 @@
+
+
+{
+
+         "name": "การ์ตูน",
+        "image": "https://positioningmag.com/wp-content/uploads/2021/03/netflix-anime.jpg",
+
+"stations": 
+[
+
+
+{
+"name": "Animax",
+"image": "https://dookeela.live/uploads/1704038567.png",
+"url": "https://dookeela.live:443/live-tv/animax",
+"referer": "https://ufanance.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", 
+"embed": "false"
+},
+
+{
+name:"Cartoon Network",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
+"url": "https://dookeela.live:443/live-tv/cartoon-network",
+"referer": "https://ufanance.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", 
+"embed": "false"
+},
+
+{
+name:"Cartoon Club",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcoJhDLdj7kZ5z0GRIymGlMCDJBc42tulkQ&usqp=CAU",
+url:"https://edge1-bkk.3bb.co.th:9443/Alter_CartoonClub_Live/CartoonClub_Alter.stream/playlist.m3u8"
+},
+{
+name:"Boomerang",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzMi_0peCSdx0tmtA6oE3Mf9JCYRg1hzMKw&usqp=CAU",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name": "nickjr",
+"image": "https://dookeela.live/uploads/1704039063.png",
+"url": "https://dookeela.live:443/live-tv/nickjr",
+"referer": "https://ufanance.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", 
+"embed": "false"
+},
+{
+"name": "nickelodeon",
+"image": "https://dookeela.live/uploads/1708344306.png",
+"url": "https://dookeela.live:443/live-tv/nickelodeon",
+"referer": "https://ufanance.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", 
+"embed": "false"
+},
+
+{
+"name": "cartoonito",
+"image": "https://dookeela.live/uploads/1708344362.png",
+"url": "https://dookeela.live:443/live-tv/cartoonito",
+"referer": "https://ufanance.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", 
+"embed": "false"
+},
+{
+"name": "cbeebies",
+"image": "https://dookeela.live/uploads/1709573298.png",
+"url": "https://dookeela.live:443/live-tv/cbeebies",
+"referer": "https://ufanance.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", 
+"embed": "false"
+},
+{
+name:"sanook",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DuFIRZurVRaqEH1I2dQhPLqxJ31IYamkAA&usqp=CAU",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+},
+
+{"name": "TRUE SPARK JUMP","image": "https://dl.dropbox.com/s/dxcsc85qh9ssq6d/truesparkjump.png?dl=0",
+"url": "https://www.dropbox.com/scl/fi/zjzilojvswn9bb46y631p/spark-jump.m3u8?rlkey=jznengihwbabffn6a22hizu4v&dl=1",
+"referer": "https://ufanance.co",
+		"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+        "embed":"false"
+},
+
+{"name": "TRUE SPARK PLAY","image": "https://dl.dropbox.com/s/ivow94yig7c6h1b/truesparkplay.png?dl=0",
+"url": "https://streaming.livescorethai.net/iptv/sd-sparkplay.stream/playlist.m3u8",
+          "referer": "https://streaming.livescorethai.net/"
+},
+{ 
+name:"LEGO Channel",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcREZ3Me9anB_t0h7kdrPMCBAlyW-t9r-jPA&usqp=CAU",
+url:"https://legochannel-roku.amagi.tv/playlist.m3u8"
+},
+{  
+name:"Nick Jr Pluto",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcyhWeejb5IWopxAL1MNIB3sGAegQOmYJ_g&usqp=CAU",
+url:"https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8"
+},
+{  
+name:"CONtv ANIME",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XcicAcpnZOsMIlRVbYII6BCAtuTDDD98hw&usqp=CAU",
+url:"https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8"
+},
+{  
+name:"PBS Kids",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVn9KAP1vCPO3MdLBCDz5B-JM8F26DVfRpdw&usqp=CAU",
+url:"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+},
+{
+name:"zoomoo",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSj9wLvlafCxHPMOO6jpUrjtOlCS2cxs-sA&usqp=CAU",
+url:"https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+},
+]
+}

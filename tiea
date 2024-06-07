@@ -39,13 +39,13 @@
 
        "name": "MOVIES",
       "image": "https://dl.dropboxusercontent.com/scl/fi/eawsp4pkzf6yjhsywsm3p/Main_Movie.png?rlkey=jd03yofu3fg9wtc7gi8n9taef&dl=0",
-	    "url": "https://raw.githubusercontent.com/tiea9999/tiea-tv/main/real movie",",
+	    "url": "https://raw.githubusercontent.com/tiea9999/tiea-tv/main/real movie",
        "import": false
 },
 {
            "name": "Series",
            "image": "https://dl.dropboxusercontent.com/scl/fi/mm985elkdnkhmv3v4bq3l/Series.png?rlkey=sh5wntduka77is1yftni2wzlz&dl=0",
-           "url": ""url":"https://raw.githubusercontent.com/tiea9999/tiea/main/ซีรี่ย์อยากดู",",
+           "url":"https://raw.githubusercontent.com/tiea9999/tiea/main/ซีรี่ย์อยากดู",
             "import": "false"
 }
 ]

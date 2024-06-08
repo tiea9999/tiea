@@ -1,0 +1,48 @@
+{
+      "name": "TIEA IPTV ",
+       "author": "@เตี้ย",
+       "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/tiea",
+       "image": "https://docs.google.com/uc?export=download&id=13NzNVZeTiFjCpn-HKecMvIjJaV9zAIK5",
+       "groups": [
+{
+        "name": "ทีวีดิจิตอล",
+       "image":"https://dl.dropboxusercontent.com/scl/fi/pnnlx2atyz5mqzzbhvdqb/digital_nonTrue.png?rlkey=nxy9r654ziimvec3rybctrx8v&dl=0",
+        "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/digital%20tv",
+        "import": false
+},
+{
+
+        "name": "Movie Live",
+       "image" : "https://dl.dropboxusercontent.com/scl/fi/q6rf9j2v23xhd0g7yyw8y/Movieonline_nontrue.png?rlkey=6b97yhpzg43tkp9jdprkbh4kr&dl=0",
+        "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/movie%20live",
+        "import": "false"
+},
+{
+        "name": "ช่องกีฬาไทยกีฬารอบโลก",
+        "image" : "https://dl.dropboxusercontent.com/scl/fi/l8eagp6ijh9333amqpz1u/SPORT_luxdo.png?rlkey=4lnwq9r63hedmbmlbnf3qwris&dl=0",
+        "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/sport%20tv",
+        "import": "false"
+},
+{
+        "name": "สารคดี",
+        "image" : "https://dl.dropboxusercontent.com/scl/fi/kkzoz0pda2kbxwcnnk226/Doc_luxdo.png?rlkey=r9msi6i83n4o6e3i4ufv42ufq&dl=0",
+        "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/documentary",
+        "import": "false"
+},
+{
+       "name": "การ์ตูน",
+       "image" : "https://dl.dropboxusercontent.com/scl/fi/45ojiw52ytel7bvzymtn4/ Cartoon_luxdo.png?rlkey=iekl9fchyovvqgyoov2qssp8c&dl=0",
+       "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/kids",
+		 "import": "false"
+}
+]
+}	                                                                                                                                            
+]
+}
+]
+}	                                                                                                                                            
+]
+}
+]
+},
+]

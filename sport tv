@@ -155,6 +155,13 @@ image:"https://cms.dmpcdn.com/livetv/2023/06/01/fe27a580-0032-11ee-a673-39b4d2c4
 {
 name:"beIN Sports HD 2",
 image:"https://cms.dmpcdn.com/livetv/2023/06/01/ff208470-0032-11ee-87ee-bf4bd5ef0bda_webp_original.png",
+"url": "https://sabutv.com/player/sport/?chbein2_my",
+ "embed":"false",
+"referer": "https://dooball2you.com/"
+},
+{
+name:"beIN Sports HD 2",
+image:"https://cms.dmpcdn.com/livetv/2023/06/01/ff208470-0032-11ee-87ee-bf4bd5ef0bda_webp_original.png",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8",
 "referer": "https://dooball2you.com/"
 },

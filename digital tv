@@ -5,7 +5,15 @@
 		"url": "https://raw.githubusercontent.com/tiea9999/tiea/main/digital%20tv",
 		"stations":[
 
-
+{
+"name":"",
+"image":"https://i.postimg.cc/JnHkLGFv/hboth.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live:443/live-tv/ch3hd",
+"referer":"https://freetvdd.com/",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"embed":"false"
+},
 {
 "name":"",
 "id":30,"image":"https://overseer.blackboxsys.net/images/png/hd-ch3.png",

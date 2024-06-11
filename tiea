@@ -7,20 +7,20 @@
 {
         "name": "ทีวีดิจิตอล",
        "image":"https://dl.dropboxusercontent.com/scl/fi/pnnlx2atyz5mqzzbhvdqb/digital_nonTrue.png?rlkey=nxy9r654ziimvec3rybctrx8v&dl=0",
-        "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/digital%20tv",
-        "import": false
+        "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/digital tv",
+        "import": "false"
 },
 {
 
         "name": "Movie Live",
        "image" : "https://dl.dropboxusercontent.com/scl/fi/q6rf9j2v23xhd0g7yyw8y/Movieonline_nontrue.png?rlkey=6b97yhpzg43tkp9jdprkbh4kr&dl=0",
-        "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/movie%20live",
+        "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/movie live",
         "import": "false"
 },
 {
         "name": "ช่องกีฬาไทยกีฬารอบโลก",
         "image" : "https://dl.dropboxusercontent.com/scl/fi/l8eagp6ijh9333amqpz1u/SPORT_luxdo.png?rlkey=4lnwq9r63hedmbmlbnf3qwris&dl=0",
-        "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/sport%20tv",
+        "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/sport tv",
         "import": "false"
 },
 {

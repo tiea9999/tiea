@@ -122,7 +122,6 @@ image:"https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8
 url:"https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8",
 "referer": "https://freetvdd.com/"
 },
-
 {
 name:"True Sport HD7",
 "author": "",
@@ -131,77 +130,75 @@ url:"https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8",
 "referer": "https://freetvdd.com/",
 playInNatPlayer: "true"
 },
-
 {
 "name": "SPOTV",
 "image": "https://dooball2you.com/wp-content/uploads/2021/10/ช่องspotv1.png",
 "url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
 "referer": "https://www.livedoomovies.com/"
 },
-
 {
-name:"SPOTV 2",
+"name":"SPOTV 2",
 "image": "https://dooball2you.com/wp-content/uploads/2021/10/spotv2.png",
 "url": "https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
 "referer": "https://www.livedoomovies.com/"
 },
 {
-name:"beIN Sports HD 1",
-image:"https://cms.dmpcdn.com/livetv/2023/06/01/fe27a580-0032-11ee-a673-39b4d2c4a0b2_webp_original.png",
+"name":"beIN Sports HD 1",
+"image":"https://cms.dmpcdn.com/livetv/2023/06/01/fe27a580-0032-11ee-a673-39b4d2c4a0b2_webp_original.png",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8",
 "referer": "https://dooball2you.com/"
 },
 {
-name:"beIN Sports HD 1",
-image:"https://cms.dmpcdn.com/livetv/2023/06/01/fe27a580-0032-11ee-a673-39b4d2c4a0b2_webp_original.png",
+"name":"beIN Sports HD 1",
+"image":"https://cms.dmpcdn.com/livetv/2023/06/01/fe27a580-0032-11ee-a673-39b4d2c4a0b2_webp_original.png",
 "url": "https://sabutv.com/player/sport/?ch=bein1_my2",
  "embed":"true",
 "referer": "https://sabutv.com/"
 },
 {
-name:"beIN Sports HD 2",
-image:"https://cms.dmpcdn.com/livetv/2023/06/01/ff208470-0032-11ee-87ee-bf4bd5ef0bda_webp_original.png",
+"name":"beIN Sports HD 2",
+"image":"https://cms.dmpcdn.com/livetv/2023/06/01/ff208470-0032-11ee-87ee-bf4bd5ef0bda_webp_original.png",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8",
 "referer": "https://dooball2you.com/"
 },
 {
-name:"beIN Sports HD 2",
-image:"https://cms.dmpcdn.com/livetv/2023/06/01/ff208470-0032-11ee-87ee-bf4bd5ef0bda_webp_original.png",
+"name":"beIN Sports HD 2",
+"image":"https://cms.dmpcdn.com/livetv/2023/06/01/ff208470-0032-11ee-87ee-bf4bd5ef0bda_webp_original.png",
 "url": "https://sabutv.com/player/sport/?ch=bein2_my",
  "embed":"true",
 "referer": "https://sabutv.com/"
 },
 {
-name:"beIN Sports HD 3",
-image:"https://cms.dmpcdn.com/livetv/2023/06/01/ff4c0140-0032-11ee-9d8e-fd5a2514fe92_webp_320.webp",
+"name":"beIN Sports HD 3",
+"image":"https://cms.dmpcdn.com/livetv/2023/06/01/ff4c0140-0032-11ee-9d8e-fd5a2514fe92_webp_320.webp",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8",
 "referer": "https://dooball2you.com/"
 },
 {
-name:"beIN Sports HD 3",
-image:"https://cms.dmpcdn.com/livetv/2023/06/01/ff4c0140-0032-11ee-9d8e-fd5a2514fe92_webp_320.webp",
+"name":"beIN Sports HD 3",
+"image":"https://cms.dmpcdn.com/livetv/2023/06/01/ff4c0140-0032-11ee-9d8e-fd5a2514fe92_webp_320.webp",
 "url": "https://sabutv.com/player/sport/?ch=bein3_my",
  "embed":"true",
 "referer": "https://dooball2you.com/"
 },
 {
-name:"True Tennis HD",
-image:"https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",
+"name":"True Tennis HD",
+"image":"https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",
 "url": "https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8",
 "referer": "https://streaming.livescorethai.net/"
 },
 
 {
-name:"GOLF CHANNEL THAILAND HD+",
-image:"https://cms.dmpcdn.com/livetv/2023/02/06/03e274f0-a5c0-11ed-a1af-731452c47629_webp_320.webp",
-url:"https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8",
+"name":"GOLF CHANNEL THAILAND HD+",
+"image":"https://cms.dmpcdn.com/livetv/2023/02/06/03e274f0-a5c0-11ed-a1af-731452c47629_webp_320.webp",
+"url":"https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8",
 "referer": "https://www.madoohd.com/"
 },
 {
 
-name:"MUTV",
-image:"https://assets.manutd.com/AssetPicker/images/0/0/14/188/965666/MUTV_StarTimes_Article_11614244459330_large.jpg",
-url:"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
+"name":"MUTV",
+"image":"https://assets.manutd.com/AssetPicker/images/0/0/14/188/965666/MUTV_StarTimes_Article_11614244459330_large.jpg",
+"url":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
 "referer": "https://bcovlive-a.akamaihd.net/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
@@ -215,7 +212,7 @@ url:"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1
 },
 
 {
-name:"LFCTV",
+"name":"LFCTV",
 "author": "",
 image:"https://preview.redd.it/hnjh5mi5tbg71.png?width=1423&format=png&auto=webp&s=cc0b4ea9079a691d1cddd54159c9fcb75b2c5cc6",
 url:"https://ufa77.tv/channel?ch=lfctv&jwsource=cl",

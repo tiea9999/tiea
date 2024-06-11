@@ -1,9 +1,9 @@
  {
-                "name": "MOVIE ONLINE",
-		"author": "เตี้ย",
-		"image":"https://www.234.in.th/images/2021/01/19/139330190_401728744422274_7631144435927821075_n.png",
-		"url": "https://raw.githubusercontent.com/tiea9999/tiea/main/movie live",
-		"stations":[
+"name": "MOVIE ONLINE",
+"author": "เตี้ย",
+"image":"https://www.234.in.th/images/2021/01/19/139330190_401728744422274_7631144435927821075_n.png",
+"url": "https://raw.githubusercontent.com/tiea9999/tiea/main/movie live",
+"stations":[
 
 {
 "name":"",
@@ -75,7 +75,6 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJTF_ZB3NAXGQolQOp
 url:"https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
 "referer": "https://freetvdd.com/"
 },
-
 {
 name:"true-film-asia",
 image:"https://www.img01.xyz/assets/img/ch_logo/sd-filmasia.png",

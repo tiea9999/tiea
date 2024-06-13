@@ -121,14 +121,14 @@ image:"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce
 {
 "name": "SPOTV",
 "image": "https://dooball2you.com/wp-content/uploads/2021/10/ช่องspotv1.png",
-"url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
-"referer": "https://www.livedoomovies.com/"
+"url": "https://dookeela.live:443/live-tv/sportv",
+"referer": "https://dookeela.live:443/"
 },
 {
 "name":"SPOTV 2",
 "image": "https://dooball2you.com/wp-content/uploads/2021/10/spotv2.png",
-"url": "https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
-"referer": "https://www.livedoomovies.com/"
+"url": "https://dookeela.live:443/live-tv/sportv2",
+"referer": "https://dookeela.live:443/"
 },
 {
 "name":"beIN Sports HD 1",

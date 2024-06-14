@@ -139,7 +139,7 @@ image:"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce
 {
 "name":"beIN Sports HD 1",
 "image":"https://cms.dmpcdn.com/livetv/2023/06/01/fe27a580-0032-11ee-a673-39b4d2c4a0b2_webp_original.png",
-"url": "https://sabutv.com/player/sport/?ch=bein1_my2",
+"url": "https://sabutv.com/player/play/?ch=bein1_my2",
 "embed":"true",
 "referer": "https://sabutv.com/"
 },
@@ -165,7 +165,14 @@ image:"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce
 {
 "name":"beIN Sports HD 3",
 "image":"https://cms.dmpcdn.com/livetv/2023/06/01/ff4c0140-0032-11ee-9d8e-fd5a2514fe92_webp_320.webp",
-"url": "https://sabutv.com/player/sport/?ch=bein3_my",
+"url": "https://sabutv.com/player/play/?ch=bein3_my",
+"embed":"true",
+"referer": "https://dooball2you.com/"
+},
+{
+"name":"beIN Sports HD 4",
+"image":"https://dookeela.live/uploads/1692816640.png",
+"url": "https://sabutv.com/player/play/?ch=bein4_my",
 "embed":"true",
 "referer": "https://dooball2you.com/"
 },

@@ -152,7 +152,7 @@ image:"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce
 {
 "name":"beIN Sports HD 2",
 "image":"https://cms.dmpcdn.com/livetv/2023/06/01/ff208470-0032-11ee-87ee-bf4bd5ef0bda_webp_original.png",
-"url": "https://sabutv.com/player/sport/?ch=bein2_my",
+"url": "https://sabutv.com/player/play/?ch=bein2_my",
 "embed":"true",
 "referer": "https://sabutv.com/"
 },

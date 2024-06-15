@@ -290,7 +290,7 @@
 {
 "name": "wwe",
 "image": "https://dookeela.live/uploads/1696317392.png",
-"imageScale": "fitStart",
+"imageScale":"fitStart",
 "url": "https://dookeela.live:443/live-tv/wwe",
 "referer": "https://dookeela.live:443/",
 "embed":"false",

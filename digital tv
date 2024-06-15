@@ -116,7 +116,7 @@ url:"https://inwiptv.com/player_demo.php?channel=27135",
 },
 
 {"id":50,"image":"https://overseer.blackboxsys.net/images/png/hd-pptv.png","name":"PPTV ",
-"url" : "https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8", 
+"url": "https://dookeela.live:443/live-tv/pptv",
 "referer" : "https://streaming.livescorethai.net/"
 },
 {"id":48,"image":"https://overseer.blackboxsys.net/images/png/hd-pptv.png","name":"PPTV HD",

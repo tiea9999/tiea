@@ -7,14 +7,12 @@
 
 { 
 "name":"True Premier Football HD1",
-"author": "",
 "image":"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",
 "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/chunks.m3u8?",
 "referer": "https://doolive4k.tv/"
 },
 { 
 "name":"True Premier Football HD1",
-"author": "",
 "image":"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",
 "url": "https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8",
 "referer": "https://streaming.livescorethai.net/"
@@ -73,7 +71,6 @@
 },
 {
 "name":"True Premier Football HD5",
-"author": "",
 "image":"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original.png",
 "url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-5/chunks.m3u8?",
 "referer":"https://doolive4k.tv/",
@@ -82,47 +79,42 @@
 },
 {
 "name":"True Premier Football HD5",
-"author": "",
 "image":"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original.png",
 "url": "https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8",
 "referer": "https://streaming.livescorethai.net/"
 },
 {
 "name":"True Sport HD1",
-"author": "",
 "image":"https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
 "url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-8/chunks.m3u8?",
 "referer":"https://doolive4k.tv/"
 },
 {
 "name":"True Sport HD1",
-"author": "",
 "image":"https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8",
 "referer": "https://dooball2you.com/"
 },
 {
 "name":"True Sport HD2",
-"author": "",
 "image":"https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
 "url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-9/chunks.m3u8?",
 "referer":"https://doolive4k.tv/"
 },
 {
 "name":"True Sport HD2",
-"author": "",
 "image":"https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8",
 "referer": "https://dooball2you.com/"
 },
 {
 "name":"True Sport HD3",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
 "url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-10/chunks.m3u8?",
 "referer":"https://doolive4k.tv/"
 },
 {
 "name":"True Sport HD3",
-"author": "",
 "image":"https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8",
 "referer": "https://dooball2you.com/"
@@ -245,7 +237,6 @@
 
 {
 "name":"LFCTV",
-"author": "",
 "image":"https://preview.redd.it/hnjh5mi5tbg71.png?width=1423&format=png&auto=webp&s=cc0b4ea9079a691d1cddd54159c9fcb75b2c5cc6",
 "url":"https://ufa77.tv/channel?ch=lfctv&jwsource=cl",
 "referer": "https://ufa77.tv"

@@ -14,6 +14,12 @@
 { 
 "name":"True Premier Football HD1",
 "image":"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",
+"url": "https://dookeela.live:443/live-tv/epl1",
+"referer": "https://streaming.livescorethai.net/"
+},
+{ 
+"name":"True Premier Football HD1",
+"image":"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",
 "url": "https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8",
 "referer": "https://streaming.livescorethai.net/"
 },

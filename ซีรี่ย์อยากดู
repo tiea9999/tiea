@@ -9,13 +9,13 @@
 
 
 {
-         "name": "ดูซีรี่ย์  iQIYI ",
+         "name": "ดูซีรี่ย์  iQIYI",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Iqiyi_Logo_Baru.png/800px-Iqiyi_Logo_Baru.png",
         "url":"https://www.dropbox.com/scl/fi/h32kl0t50rvl3xp07lnc5/iQIYI.w3u?rlkey=bxw1kb4illb2iavoyzhahn3fl&dl=1",
         "import": "false"
 },
 {
-        "name": "ดูซีรี่ย์ Netflix ",
+        "name": "ดูซีรี่ย์ Netflix",
        "image":"https://cdn.logojoy.com/wp-content/uploads/20231031154601/2014-netflix-logo-600x319.png",
         "url":"https://www.dropbox.com/scl/fi/y72v0ka79nyckv60rphp1/Netflix.w3u?rlkey=jvbuuhmk4inpv1j0mhaiiy8ev&dl=1",
         "import": "false"
@@ -24,6 +24,7 @@
        "name": "ดูซีรี่ย์  VIU",
        "image":"https://w7.pngwing.com/pngs/683/54/png-transparent-viu-over-the-top-media-services-pccw-international-ott-cayman-islands-holdings-ltd-video-on-demand-g-miscellaneous-television-company.png",
        "url": "https://www.dropbox.com/scl/fi/76pxe5bxwrdf1ce5icr3u/VIU.w3u?rlkey=540phoqqfxfihsa460g53acs2&dl=1",
+       "import": "false"
 },
 {
         "name": "ซีรี่ย์จีน",

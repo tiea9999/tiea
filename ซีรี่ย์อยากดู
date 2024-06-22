@@ -9,7 +9,13 @@
 
 
 {
-         "name": "ซีรี่ย์จีน",
+         "name": "ดูซีรี่ย์  iQIYI ",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Iqiyi_Logo_Baru.png/800px-Iqiyi_Logo_Baru.png",
+        "url":"https://www.dropbox.com/scl/fi/h32kl0t50rvl3xp07lnc5/iQIYI.w3u?rlkey=bxw1kb4illb2iavoyzhahn3fl&dl=1",
+        "import": "false"
+},
+{
+        "name": "ซีรี่ย์จีน",
         "image":"https://bit.ly/3Poo4eR",
         "url": "https://www.dropbox.com/scl/fi/94t3jhuunscriru1zq50g/.w3u?rlkey=lxq0jwz1xtrjhre3eaz7z5dtk&dl=1",
         "import": "false"

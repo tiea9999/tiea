@@ -6,7 +6,12 @@
 	"image":"https://bit.ly/3Poo4eR",
 	"url":"https://raw.githubusercontent.com/tiea9999/tiea/main/ซีรี่ย์อยากดู",
         "groups": [
-
+{
+        "name": " ซีรี่ย์ Disney+ ",
+        "image":"https://secure-media.hotstar.com/web-assets/prod/images/Disney+Hotstar.jpg",
+        "url": "https://www.dropbox.com/scl/fi/1g9ge8nrl3dn4dd8wf3qx/Disney.w3u?rlkey=fl7by93dl7wadnevzxkfyo46u&dl=1",
+        "import": "false"
+},
 
 {
          "name": "ดูซีรี่ย์  iQIYI",

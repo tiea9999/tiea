@@ -219,7 +219,7 @@ url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"
 {  
 name:"CTB",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8OGM66fyZZ9Hi6nuqzxdSj3AsFqEn8MTNw&usqp=CAU",
-url:"http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8"
+url:"http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8"
 },
 {  
 name:"MOVIES WORLD 1",

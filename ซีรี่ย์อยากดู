@@ -12,7 +12,13 @@
         "url": "https://www.dropbox.com/scl/fi/1g9ge8nrl3dn4dd8wf3qx/Disney.w3u?rlkey=fl7by93dl7wadnevzxkfyo46u&dl=1",
         "import": "false"
 },
-
+{
+        "name": "ดูซีรี่ย์  WeTV",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WeTV_logo.svg/2560px-WeTV_logo.svg.png",
+       "url": "https://www.dropbox.com/scl/fi/0nf34m8zwylenxk0xoipq/Wetv.w3u?rlkey=5xkdgk6cb6j5x3i2wgqm8119q&dl=1",
+  
+        "import": "false"
+},
 {
          "name": "ดูซีรี่ย์  iQIYI",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Iqiyi_Logo_Baru.png/800px-Iqiyi_Logo_Baru.png",

@@ -1,7 +1,7 @@
 
 {
 		"name": "DIGITAL TV",
-		"image":"https://drive.google.com/uc?id=1oaLesiyfeqCI21t8S3DteO0Nx8qVhKFU",
+		"image":"https://drive.google.com/uc?id=1oaLesiyfeqCI21t8S3DteO0Nx8qVhKFU","imageScale":	"fitXY",
 		"url": "https://raw.githubusercontent.com/tiea9999/tiea/main/digital tv",
 		"stations":[
 
@@ -120,7 +120,7 @@ url:"https://inwiptv.com/player_demo.php?channel=27135",
 "playInNatPlayer": "true"
 },
 {"id":52,"image":"https://overseer.blackboxsys.net/images/png/sd-nbt.png","name":"NBT ",
-"url": "https://dookeela.live:443/live-tv/chnbt",
+"url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8",
 "referer" : "https://freelive.inwstream.com"
 
 },
@@ -143,7 +143,7 @@ url:"https://inwiptv.com/player_demo.php?channel=27135",
 
 
 {"id":63,"image":"https://overseer.blackboxsys.net/images/png/sd-tnn24.png","name":"TNN 16 ",
-"url": "https://dookeela.live:443/live-tv/chtnn16",
+"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/index.m3u8",
 "referer": "https://streaming.livescorethai.net/" , 
 "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"
 },
@@ -169,7 +169,7 @@ url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u/index.m3
 },
 {
 "id":74,"image":"https://iptv36.my.to/logo/nation.png","name":"Nation ",
-"url": "https://dookeela.live:443/live-tv/chnation",
+"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
 "playInNatPlayer": "true"
 },

@@ -51,10 +51,10 @@
 
 
 {"id":39,"image":"https://overseer.blackboxsys.net/images/png/hd-workpoint.png","name":"Workpoint ",
- "url" : "https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8",
+"url": "https://dookeela.live:443/live-tv/Workpoint",
  "referer" : "https://streaming.livescorethai.net/"
 },
-{"id":38,"image":"https://overseer.blackboxsys.net/images/png/hd-workpoint.png","name":"Workpoint ",
+{"id":38,"image":"https://overseer.blackboxsys.net/images/png/hd-workpoint.png","name":"workpoint ",
 "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
 "playInNatPlayer": "true"
@@ -79,7 +79,7 @@ url:"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.st
 
 
 {"id":42,"image":"https://overseer.blackboxsys.net/images/png/hd-gmmone.png","name":"ONE HD",
- "url" : "https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8", 
+ "url": "https://dookeela.live:443/live-tv/onehd",
 "referer" : "https://streaming.livescorethai.net/"
 
 },{"id":43,"image":"https://overseer.blackboxsys.net/images/png/hd-gmmone.png","name":"ONE ",
@@ -120,7 +120,7 @@ url:"https://inwiptv.com/player_demo.php?channel=27135",
 "playInNatPlayer": "true"
 },
 {"id":52,"image":"https://overseer.blackboxsys.net/images/png/sd-nbt.png","name":"NBT ",
-"url" : "https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8", 
+"url": "https://dookeela.live:443/live-tv/nbt",
 "referer" : "https://freelive.inwstream.com"
 
 },
@@ -131,7 +131,7 @@ url:"https://inwiptv.com/player_demo.php?channel=27135",
 
 },
 {"id":56,"image":"https://overseer.blackboxsys.net/images/png/hd-ch8.png","name":" 8",
-"url" : "https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8", 
+"url": "https://dookeela.live:443/live-tv/ch8",
 "referer" : "https://streaming.livescorethai.net/"
 
 },
@@ -143,7 +143,7 @@ url:"https://inwiptv.com/player_demo.php?channel=27135",
 
 
 {"id":63,"image":"https://overseer.blackboxsys.net/images/png/sd-tnn24.png","name":"TNN 16 ",
-"url": "https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8" ,
+"url": "https://dookeela.live:443/live-tv/tnn16",
 "referer": "https://streaming.livescorethai.net/" , 
 "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"
 },
@@ -152,7 +152,7 @@ url:"https://inwiptv.com/player_demo.php?channel=27135",
 "url":"https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
 },
 {"id":73,"image":"https://overseer.blackboxsys.net/images/png/sd-24u.png","name":"true4u",
-url:"https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8",
+"url": "https://dookeela.live:443/live-tv/true4u",
 "referer": "https://streaming.livescorethai.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 
@@ -169,7 +169,7 @@ url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u/index.m3
 },
 {
 "id":74,"image":"https://iptv36.my.to/logo/nation.png","name":"Nation ",
-"url":"https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8",
+"url": "https://dookeela.live:443/live-tv/nation",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
 "playInNatPlayer": "true"
 },

@@ -152,9 +152,9 @@ url:"https://inwiptv.com/player_demo.php?channel=27135",
 "url":"https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
 },
 {"id":73,"image":"https://overseer.blackboxsys.net/images/png/sd-24u.png","name":"true4u",
-"url": "http://freelive.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8",
-"referer": "https://streaming.livescorethai.net/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
+"url": "https://tv.trueid.net/th-th/embed/true4u?autoplay=yes&nopageview=yes",
+"referer": "https://tv.trueid.net/" , "embed":"false",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" 
 
 },
 {"id":73,"image":"https://overseer.blackboxsys.net/images/png/sd-24u.png","name":"true4u",

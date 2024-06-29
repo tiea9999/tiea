@@ -51,7 +51,7 @@
 
 
 {"id":39,"image":"https://overseer.blackboxsys.net/images/png/hd-workpoint.png","name":"Workpoint ",
-"url": "https://dookeela.live:443/live-tv/chworkpoint",
+"url": "http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8",
  "referer" : "https://streaming.livescorethai.net/"
 },
 {"id":38,"image":"https://overseer.blackboxsys.net/images/png/hd-workpoint.png","name":"workpoint ",
@@ -143,7 +143,7 @@ url:"https://inwiptv.com/player_demo.php?channel=27135",
 
 
 {"id":63,"image":"https://overseer.blackboxsys.net/images/png/sd-tnn24.png","name":"TNN 16 ",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/index.m3u8",
+"url": "http://freelive2.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8",
 "referer": "https://streaming.livescorethai.net/" , 
 "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"
 },
@@ -152,7 +152,7 @@ url:"https://inwiptv.com/player_demo.php?channel=27135",
 "url":"https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
 },
 {"id":73,"image":"https://overseer.blackboxsys.net/images/png/sd-24u.png","name":"true4u",
-"url": "https://dookeela.live:443/live-tv/true4u",
+"url": "http://freelive.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8",
 "referer": "https://streaming.livescorethai.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 

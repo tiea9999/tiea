@@ -145,7 +145,7 @@ url:"https://inwiptv.com/player_demo.php?channel=27135",
 {"id":63,"image":"https://overseer.blackboxsys.net/images/png/sd-tnn24.png","name":"TNN 16 ",
 "url": "https://tv.trueid.net/embed/tnn16?autoplay=yes&nopageview=yes",
 "referer": "https://tv.trueid.net/" , "embed":"false",
-"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" 
 },
 
 {"id":64,"image":"https://overseer.blackboxsys.net/images/png/hd-tpbs.png","name":"Thai PBS HD ",

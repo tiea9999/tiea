@@ -61,7 +61,7 @@ image:"https://dookeela.live/uploads/1703787733.png",
 "url": "https://tiea9999.github.io/hbohd/",
 "referer":"https://dookeela.live:443/live-tv/mono29plus/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36",
-"embed":"true"
+"embed":"false"
 },
 {
 "name":"",
@@ -96,23 +96,23 @@ image:"https://dookeela.live/uploads/1703787733.png",
 "url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-tfilm2&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com","embed":"false",
  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0"
-},]}
+},
 { 
-name:"True Movie His",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJTF_ZB3NAXGQolQOpGotSF8Q7ejzi2oYyw&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
+"name":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJTF_ZB3NAXGQolQOpGotSF8Q7ejzi2oYyw&usqp=CAU",
+"url":"https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
 "referer": "https://freetvdd.com/"
 },
 {
-name:"true-film-asia",
-image:"https://www.img01.xyz/assets/img/ch_logo/sd-filmasia.png",
+"name":"",
+"image":"https://www.img01.xyz/assets/img/ch_logo/sd-filmasia.png",
 "url": "https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
 "referer": "https://streaming.livescorethai.net/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"  
 },
 {  
-name:"True Thai Film",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",
+"name":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",
 "imageScale": "fitStart",
 "url": "https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
 "referer": "https://freetvdd.com/",
@@ -120,37 +120,37 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78
 "embed":"false"
 },
 {
-name:"True Series",
-image:"https://dl.dropbox.com/s/vinzmujourwjf3g/trueseries.png?dl=0",
+"name":"",
+"image":"https://dl.dropbox.com/s/vinzmujourwjf3g/trueseries.png?dl=0",
 "url": "https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
 "referer": "https://streaming.livescorethai.net/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "embed":"false"
 },
 {
-name:"Celestial Classic Movies (TH)",
-image:"https://i.postimg.cc/Nf6BvK0x/CCM.png",
-url:"https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
+"name":"",
+"image":"https://i.postimg.cc/Nf6BvK0x/CCM.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
 "referer": "https://streaming.livescorethai.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {
-name:"WARNER TV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",
-url:"https://dookeela.live:443/live-tv/warnertv/",
+"name":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",
+"url":"https://dookeela.live:443/live-tv/warnertv/",
 "referer": "https://freetvdd.com",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {
-name:"AXN",
-image:"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5c8eea34529609.56d803cddc322.jpg",
-url:"https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
+"name":"",
+"image":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5c8eea34529609.56d803cddc322.jpg",
+"url":"https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
 "referer": "https://streaming.livescorethai.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {
-name:"7flix",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9WX2-H1YO-fvH-2CaFKkTdwF0OtT7xSwRg&usqp=CAU",
+"name":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9WX2-H1YO-fvH-2CaFKkTdwF0OtT7xSwRg&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },

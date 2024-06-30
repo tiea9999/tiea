@@ -48,15 +48,15 @@ image:"https://w7.pngwing.com/pngs/367/61/png-transparent-cinemax-hd-logo.png",
 "embed":"false"
 },
 {
-name:"",
-image:"https://dookeela.live/uploads/1703829940.png",
+"name":"",
+"image":"https://dookeela.live/uploads/1703829940.png",
 "url": "https://dookeela.live:443/live-tv/3bbasian",
 "referer":"https://dookeela.live:443/live-tv/3bbasian/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36",
 "embed":"false"
 },
 {
-name:"",
+"name":"",
 image:"https://dookeela.live/uploads/1703787733.png",
 "url": "https://tiea9999.github.io/hbohd/",
 "referer":"https://dookeela.live:443/live-tv/mono29plus/",
@@ -64,29 +64,28 @@ image:"https://dookeela.live/uploads/1703787733.png",
 "embed":"true"
 },
 {
-name:"",
+"name":"",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-asianmore.png",
 "url": "https://dookeela.live:443/live-tv/trueasianmore",
 "referer": "https://freetvdd.com/"
 },
 {
-name:"",
+"name":"",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-asianmore.png",
 "url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-asianmore&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com","embed":"false",
  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0"
 },
-
 {
-name:"True Film 1",
+"name":"True Film 1",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",
 "url": "https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
 "referer": "https://freetvdd.com/"
 },
 {
-name:"",
+"name":"",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
-url:"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-tfilm2&api_key=xjA7kf1WXmzK",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-tfilm2&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com","embed":"false",
  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0"
 },

@@ -6,6 +6,34 @@
 	"image":"https://bit.ly/3Poo4eR",
 	"url":"https://raw.githubusercontent.com/tiea9999/tiea/main/ซีรี่ย์อยากดู",
         "groups": [
+
+
+
+{
+        "name": "ซีรี่ย์จีน",
+        "image":"https://bit.ly/3Poo4eR",
+        "url": "https://www.dropbox.com/scl/fi/94t3jhuunscriru1zq50g/.w3u?rlkey=lxq0jwz1xtrjhre3eaz7z5dtk&dl=1",
+        "import": "false"
+},
+{
+         "name": "ซีรี่ย์ไทย",
+         "image":"https://bit.ly/3Poo4eR",
+        "url": "https://www.dropbox.com/scl/fi/9ulnp476c5xsa2i27k4o1/.w3u?rlkey=h6etl7x8knlbdc63qgo7e32cc&dl=1",
+        "import": "false"
+
+},
+{
+         "name": "ซีรี่ย์ฝรั่ง",
+         "image":"https://bit.ly/3Poo4eR",
+       "url":"https://www.dropbox.com/scl/fi/0ifsk6n8dkmba8e8x28xm/.w3u?rlkey=asxv16adtc2zm5kvdr2n7hogp&dl=1",
+       "import": "false"
+},
+{
+         "name": "ซีรี่ย์เกาหลี",
+        "image":"https://bit.ly/3Poo4eR",
+        "url": "https://www.dropbox.com/scl/fi/4tbkgoascr2ugpjs61kmb/.w3u?rlkey=lamimlmi58kdye85zzvlmuaam&dl=1",
+        "import": "false"
+},
 {
         "name": " ซีรี่ย์ Disney+ ",
         "image":"https://secure-media.hotstar.com/web-assets/prod/images/Disney+Hotstar.jpg",
@@ -36,31 +64,8 @@
        "image":"https://w7.pngwing.com/pngs/683/54/png-transparent-viu-over-the-top-media-services-pccw-international-ott-cayman-islands-holdings-ltd-video-on-demand-g-miscellaneous-television-company.png",
        "url": "https://www.dropbox.com/scl/fi/76pxe5bxwrdf1ce5icr3u/VIU.w3u?rlkey=540phoqqfxfihsa460g53acs2&dl=1",
        "import": "false"
-},
-{
-        "name": "ซีรี่ย์จีน",
-        "image":"https://bit.ly/3Poo4eR",
-        "url": "https://www.dropbox.com/scl/fi/94t3jhuunscriru1zq50g/.w3u?rlkey=lxq0jwz1xtrjhre3eaz7z5dtk&dl=1",
-        "import": "false"
-},
-{
-         "name": "ซีรี่ย์ไทย",
-         "image":"https://bit.ly/3Poo4eR",
-        "url": "https://www.dropbox.com/scl/fi/9ulnp476c5xsa2i27k4o1/.w3u?rlkey=h6etl7x8knlbdc63qgo7e32cc&dl=1",
-        "import": "false"
 
-},
-{
-         "name": "ซีรี่ย์ฝรั่ง",
-         "image":"https://bit.ly/3Poo4eR",
-       "url":"https://www.dropbox.com/scl/fi/0ifsk6n8dkmba8e8x28xm/.w3u?rlkey=asxv16adtc2zm5kvdr2n7hogp&dl=1",
-       "import": "false"
-},
-{
-         "name": "ซีรี่ย์เกาหลี",
-        "image":"https://bit.ly/3Poo4eR",
-        "url": "https://www.dropbox.com/scl/fi/4tbkgoascr2ugpjs61kmb/.w3u?rlkey=lamimlmi58kdye85zzvlmuaam&dl=1",
-        "import": "false"
+
 
       }
       ]

@@ -94,8 +94,9 @@ image:"https://dookeela.live/uploads/1703787733.png",
 "name":"",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
 "url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-tfilm2&api_key=xjA7kf1WXmzK",
-"referer": "https://livesod365.com","embed":"false",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0"
+"referer":"https://livesod365.com",
+"embed":"false",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0"
 },
 { 
 "name":"",

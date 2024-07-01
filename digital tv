@@ -173,21 +173,19 @@ url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u/index.m3
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "",
 "image":"https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png",
 "url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
 "desktop": "true"
-
 },
-{"name": "sd-nbt","image": "https://overseer.blackboxsys.net/images/png/sd-nbt.png",
+{
+"name": "sd-nbt","image": "https://overseer.blackboxsys.net/images/png/sd-nbt.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=sd-nbt&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-
-"info": "Digital TV"},
+"info": "Digital TV"},]}
 {"name": "hd-amarin",
 "image": "https://overseer.blackboxsys.net/images/png/hd-amarin.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-amarin&api_key=xjA7kf1WXmzK",

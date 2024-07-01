@@ -283,77 +283,78 @@ url:"http://61.19.242.134/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-asian&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-"info": "Entertainment"},
+"info": "Entertainment"
+},
 {"name": "hd-axn",
 "image": "https://overseer.blackboxsys.net/images/png/hd-axn.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-axn&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-
-"info": "Entertainment"},
+"info": "Entertainment"
+},
 {"name": "hd-rtlcbs",
 "image": "https://overseer.blackboxsys.net/images/png/hd-rtlcbs.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-rtlcbs&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-
-"info": "Entertainment"},
+"info": "Entertainment"
+},
 {"name": "hd-rtlcbsextreme",
 "image": "https://overseer.blackboxsys.net/images/png/hd-rtlcbsextreme.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-rtlcbsextreme&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-
-"info": "Entertainment"},
+"info": "Entertainment"
+},
 {"name": "hd-tfilm",
 "image": "https://overseer.blackboxsys.net/images/png/hd-tfilm.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-tfilm&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-
-"info": "Entertainment"},
+"info": "Entertainment"
+},
 {"name": "hd-tfilm2",
 "image": "https://overseer.blackboxsys.net/images/png/hd-tfilm2.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-tfilm2&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-
-"info": "Entertainment"},
+"info": "Entertainment"
+},
 {"name": "hd-foxaction",
 "image": "https://overseer.blackboxsys.net/images/png/hd-foxaction.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-foxaction&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-
-"info": "Entertainment"},
+"info": "Entertainment"
+},
 {"name": "hd-foxfamily",
 "image": "https://overseer.blackboxsys.net/images/png/hd-foxfamily.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-foxfamily&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-
-"info": "Entertainment"},
+"info": "Entertainment"
+},
 {"name": "hd-foxpremium",
 "image": "https://overseer.blackboxsys.net/images/png/hd-foxpremium.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-foxpremium&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-
-"info": "Entertainment"},
+"info": "Entertainment"
+},
 {"name": "sd-fox",
 "image": "https://overseer.blackboxsys.net/images/png/sd-fox.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=sd-fox&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-
-"info": "Entertainment"},
+"info": "Entertainment"
+},
 {"name": "sd-inside",
 "image": "https://overseer.blackboxsys.net/images/png/sd-inside.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=sd-inside&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-
-"info": "Entertainment"},
+"info": "Entertainment"
+},
 {"name": "hd-kbsworld",
 "image": "https://overseer.blackboxsys.net/images/png/hd-kbsworld.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-kbsworld&api_key=xjA7kf1WXmzK",
@@ -366,8 +367,7 @@ url:"http://61.19.242.134/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=sd-moviehits&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-
-"info": "Entertainment"},
+"info": "Entertainment"},]}
 {"name": "hd-paramount",
 "image": "https://overseer.blackboxsys.net/images/png/hd-paramount.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-paramount&api_key=xjA7kf1WXmzK",

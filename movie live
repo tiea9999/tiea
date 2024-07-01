@@ -278,95 +278,89 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0SIcV89Zo3j0Pyv4jW
 url:"http://61.19.242.134/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
  },       
-
 {"name": "hd-axn",
 "image": "https://overseer.blackboxsys.net/images/png/hd-axn.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-axn&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info": "Entertainment"
+"info": "สำรอง"
 },
-
 {"name": "hd-tfilm",
 "image": "https://overseer.blackboxsys.net/images/png/hd-tfilm.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-tfilm&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info": "Entertainment"
+"info": "สำรอง"
 },
 {"name": "hd-tfilm2",
 "image": "https://overseer.blackboxsys.net/images/png/hd-tfilm2.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-tfilm2&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info": "Entertainment"
+"info": "สำรอง"
 },
-
 {"name": "sd-inside",
 "image": "https://overseer.blackboxsys.net/images/png/sd-inside.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=sd-inside&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info": "Entertainment"
+"info": "สำรอง"
 },
 {"name": "hd-kbsworld",
 "image": "https://overseer.blackboxsys.net/images/png/hd-kbsworld.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-kbsworld&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info": "Entertainment"
+"info": "สำรอง"
 },
 {"name": "sd-moviehits",
 "image": "https://overseer.blackboxsys.net/images/png/sd-moviehits.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=sd-moviehits&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info": "Entertainment"
+"info": "สำรอง"
 },
 {"name": "hd-paramount",
 "image": "https://overseer.blackboxsys.net/images/png/hd-paramount.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-paramount&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info": "Entertainment"
+"info": "สำรอง"
 },
 {"name": "sd-series",
 "image": "https://overseer.blackboxsys.net/images/png/sd-series.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=sd-series&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info": "Entertainment"
+"info": "สำรอง"
 },
 {"name": "sd-thaifilm",
 "image": "https://overseer.blackboxsys.net/images/png/sd-thaifilm.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=sd-thaifilm&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info": "Entertainment"
+"info": "สำรอง"
 },
 {"name": "sd-tvb",
 "image": "https://overseer.blackboxsys.net/images/png/sd-tvb.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=sd-tvb&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info": "Entertainment"
+"info": "สำรอง"
 },
 {"name": "hd-warnertv",
 "image": "https://overseer.blackboxsys.net/images/png/hd-warnertv.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-warnertv&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info": "Entertainment"
+"info": "สำรอง"
 },
 {"name": "hd-xzyte",
 "image": "https://overseer.blackboxsys.net/images/png/hd-xzyte.png",
 "url": " https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-xzyte&api_key=xjA7kf1WXmzK",
 "referer": "https://livesod365.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info": "Entertainment"
-
-
-
+"info": "สำรอง"
 }
 ]
 }	                                                                                                                                            

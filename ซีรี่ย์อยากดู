@@ -8,7 +8,11 @@
         "groups": [
 
 
-
+{
+  "name": "อัพเดตล่าสุด",
+  "image":"https://docs.google.com/uc?export=download&id=12u97TntiCugu4lrQFjoi1yXa35hCi9Ex",
+  "url": "https://www.dropbox.com/scl/fi/548ovxoi5d3r18euu53oj/.w3u?rlkey=kc5mcocfnj11dwvvpod14bnep&dl=1",
+ },
 {
         "name": "ซีรี่ย์จีน",
         "image":"https://bit.ly/3Poo4eR",
@@ -34,6 +38,31 @@
         "url": "https://www.dropbox.com/scl/fi/4tbkgoascr2ugpjs61kmb/.w3u?rlkey=lamimlmi58kdye85zzvlmuaam&dl=1",
         "import": "false"
 },
+{
+       "name": "ดูซีรี่ย์ พากษ์ไทย",
+       "image":"https://janthai.com/blog/wp-content/uploads/2023/01/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-scaled.jpg",
+       "url": "https://www.dropbox.com/scl/fi/4ddc5ds4i0vupz48gz75b/series-indy_-_-2.w3u?rlkey=xclc8dzqvgqqynfsjlqktyc6i&dl=1",
+       "import": "false"
+ }
+      ]
+      }	                                                                                                                                            
+      ]
+      }
+      ]
+      },
+      ]
+      }
+
+
+
+
+
+
+
+
+
+
+
 {
         "name": " ซีรี่ย์ Disney+ ",
         "image":"https://secure-media.hotstar.com/web-assets/prod/images/Disney+Hotstar.jpg",

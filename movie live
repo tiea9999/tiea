@@ -80,7 +80,7 @@ image:"https://dookeela.live/uploads/1703787733.png",
 {
 "name":"",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",
-"url": "https://dookeela.live:443/live-tv/'truefilm1/",
+"url": "https://dookeela.live:443/live-tv/truefilm1/",
 "referer": "https://freetvdd.com/"
 },
 
@@ -109,18 +109,12 @@ image:"https://dookeela.live/uploads/1703787733.png",
 {
 "name":"",
 "image":"https://dl.dropbox.com/s/vinzmujourwjf3g/trueseries.png?dl=0",
-"url": "https://dookeela.live:443/live-tv/'trueseries/",
+"url": "https://dookeela.live:443/live-tv/trueseries/",
 "referer": "https://streaming.livescorethai.net/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "embed":"false"
 },
-{
-"name":"",
-"image":"https://i.postimg.cc/Nf6BvK0x/CCM.png",
-"url":"https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"referer": "https://streaming.livescorethai.net/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
-},
+
 {
 "name":"",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",
@@ -128,13 +122,7 @@ image:"https://dookeela.live/uploads/1703787733.png",
 "referer": "https://freetvdd.com",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
-{
-"name":"",
-"image":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5c8eea34529609.56d803cddc322.jpg",
-"url":"https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"referer": "https://streaming.livescorethai.net/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
-},
+
 {
 "name":"",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9WX2-H1YO-fvH-2CaFKkTdwF0OtT7xSwRg&usqp=CAU",

@@ -79,35 +79,21 @@ image:"https://dookeela.live/uploads/1703787733.png",
 },
 {
 "name":"",
-"image":"https://rentapi.blackboxsys.net/images/png/hd-asianmore.png",
-"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-asianmore&api_key=xjA7kf1WXmzK",
-"referer": "https://livesod365.com","embed":"false",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0"
-},
-{
-"name":"",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",
-"url": "https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
+"url": "https://dookeela.live:443/live-tv/'truefilm1/",
 "referer": "https://freetvdd.com/"
 },
-{
-"name":"",
-"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
-"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-tfilm2&api_key=xjA7kf1WXmzK",
-"referer":"https://livesod365.com",
-"embed":"false",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0"
-},
+
 { 
 "name":"",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJTF_ZB3NAXGQolQOpGotSF8Q7ejzi2oYyw&usqp=CAU",
-"url":"https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
+"url": "https://dookeela.live:443/live-tv/truemoviehits/",
 "referer": "https://freetvdd.com/"
 },
 {
 "name":"",
 "image":"https://www.img01.xyz/assets/img/ch_logo/sd-filmasia.png",
-"url": "https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
+"url": "https://dookeela.live:443/live-tv/truefilmasia/",
 "referer": "https://streaming.livescorethai.net/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"  
 },
@@ -115,7 +101,7 @@ image:"https://dookeela.live/uploads/1703787733.png",
 "name":"",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",
 "imageScale": "fitStart",
-"url": "https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
+"url": "https://dookeela.live:443/live-tv/truethaifilm/",
 "referer": "https://freetvdd.com/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "embed":"false"
@@ -123,7 +109,7 @@ image:"https://dookeela.live/uploads/1703787733.png",
 {
 "name":"",
 "image":"https://dl.dropbox.com/s/vinzmujourwjf3g/trueseries.png?dl=0",
-"url": "https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
+"url": "https://dookeela.live:443/live-tv/'trueseries/",
 "referer": "https://streaming.livescorethai.net/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "embed":"false"

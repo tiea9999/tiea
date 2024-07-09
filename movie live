@@ -226,7 +226,7 @@ url:"https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"
 },
 {  
 name:"MOVIES WORLD 1",
-image:"https://sv1.picz.in.th/images/2021/11/18/6SE6nZ.png",
+ "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2d1GYdVF7IsUUiuz7Sc52gPXtEHVnoAUYA&usqp=CAU",  
 url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },]}
 {  

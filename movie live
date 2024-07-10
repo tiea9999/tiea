@@ -177,66 +177,67 @@ url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8","
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
 },
 {
-name:"SAMURAI",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpwE0o80KpM2ja6DjqdrokkcULpGBTL_27g&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+"name":"SAMURAI",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpwE0o80KpM2ja6DjqdrokkcULpGBTL_27g&usqp=CAU",
+"url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 {  
-name:"BOX FILM",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ZoRQHoeJIhxHiX0yPQJguGEa4gOKTQ0HuA&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+"name":"BOX FILM",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ZoRQHoeJIhxHiX0yPQJguGEa4gOKTQ0HuA&usqp=CAU",
+"url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 { 
-name:"จอมยุทธ์",
-image:"https://www.i-pic.info/i/vJ8l361029.jpg",
-url:"http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8"
+"name":"จอมยุทธ์",
+"image":"https://www.i-pic.info/i/vJ8l361029.jpg",
+"url":"http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8"
 },
 {  
-name:"มังกร",
-image:"image:"https://www.i-pic.info/i/w2UI361030.jpg",
-url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8"
+"name":"มังกร",
+"image:"https://www.i-pic.info/i/w2UI361030.jpg",
+"url":"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8"
 },
 {  
-name:"tvb ไทย",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5jIlD89Lzt1yUUho9-EuasDFBD8N6t-u7A&usqp=CAU",
-url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8"
+"name":"tvb ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5jIlD89Lzt1yUUho9-EuasDFBD8N6t-u7A&usqp=CAU",
+"url":"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8"
 },
 {  
-name:"MVtv ซีรีส์",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgB-y9aQpihK_u8ud_m5swPtWaHYs8Ir3Wg&usqp=CAU",
-url:"https://n-edge-1-th.v2h-cdn.com/mvtvseries/mvtvseries/playlist.m3u8"
+"name":"MVtv ซีรีส์",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgB-y9aQpihK_u8ud_m5swPtWaHYs8Ir3Wg&usqp=CAU",
+"url":"https://n-edge-1-th.v2h-cdn.com/mvtvseries/mvtvseries/playlist.m3u8"
 },
 {  
-name:"@TV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzey5Dab6hSFxNJBKEUig3_39b8mmjPJlbA&usqp=CAU",
-url:"http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8"
+"name":"@TV",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzey5Dab6hSFxNJBKEUig3_39b8mmjPJlbA&usqp=CAU",
+"url":"http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8"
 },
 {
-name:"CHANNEL 8",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVDFBlSqT7CvwUYCBpZ8xutmIxsNH680C3Q&usqp=CAU",
-url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"
+"name":"CHANNEL 8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVDFBlSqT7CvwUYCBpZ8xutmIxsNH680C3Q&usqp=CAU",
+"url":"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"
 },
 {  
-name:"CTB",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8OGM66fyZZ9Hi6nuqzxdSj3AsFqEn8MTNw&usqp=CAU",
-url:"https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"
+"name:"CTB",
+"image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8OGM66fyZZ9Hi6nuqzxdSj3AsFqEn8MTNw&usqp=CAU",
+"url:"https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"
 },
 {
-name:"Movies World 1",
-image:"https://www.i-pic.info/i/zDt3492949.jpg",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8",
+"name":"Movies World 1",
+"image":"https://www.i-pic.info/i/zDt3492949.jpg",
+"url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-name:"Movies World 2",
-image:"https://www.i-pic.info/i/zDt3492949.jpg",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8",
+"name":"Movies World 2",
+"image":"https://www.i-pic.info/i/zDt3492949.jpg",
+"url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-name:"Movies World 3",
-image:"https://www.i-pic.info/i/zDt3492949.jpg",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8",
+"name":"Movies World 3",
+"image":"https://www.i-pic.info/i/zDt3492949.jpg",
+"url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },]}
 {  

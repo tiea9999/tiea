@@ -8,7 +8,6 @@
 {
 "name":"",
 "image":"https://i.postimg.cc/JnHkLGFv/hboth.png",
-"imageScale": "fitStart",
 "url": "https://dookeela.live:443/live-tv/hbo",
 "referer":"https://freetvdd.com/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
@@ -56,7 +55,7 @@
 },
 {
 "name":"",
-image:"https://dookeela.live/uploads/1703787733.png",
+"image":"https://dookeela.live/uploads/1703787733.png",
 "url": "https://dookeela.live:443/live-tv/mono29plus/",
 "referer":"https://dookeela.live:443/live-tv/mono29plus/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36",
@@ -64,7 +63,7 @@ image:"https://dookeela.live/uploads/1703787733.png",
 },
 {
 "name":"",
-image:"https://dookeela.live/uploads/1703787733.png",
+"image":"https://dookeela.live/uploads/1703787733.png",
 "url": "https://tiea9999.github.io/hbohd/",
 "referer":"https://dookeela.live:443/live-tv/mono29plus/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36",
@@ -82,7 +81,6 @@ image:"https://dookeela.live/uploads/1703787733.png",
 "url": "https://dookeela.live:443/live-tv/truefilm1/",
 "referer": "https://freetvdd.com/"
 },
-
 { 
 "name":"",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJTF_ZB3NAXGQolQOpGotSF8Q7ejzi2oYyw&usqp=CAU",
@@ -99,9 +97,7 @@ image:"https://dookeela.live/uploads/1703787733.png",
 {  
 "name":"",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",
-"imageScale": "fitStart",
 "url": "https://dookeela.live:443/live-tv/truethaifilm/",
-"referer": "https://freetvdd.com/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "embed":"false"
 },
@@ -196,7 +192,7 @@ url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8","
 "name":"มังกร",
 "image:"https://www.i-pic.info/i/w2UI361030.jpg",
 "url":"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8"
-},
+},]}
 {  
 "name":"tvb ไทย",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5jIlD89Lzt1yUUho9-EuasDFBD8N6t-u7A&usqp=CAU",

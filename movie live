@@ -14,7 +14,6 @@
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "embed":"false"
 },
-
 {
 "name":"",
 "image":"https://w7.pngwing.com/pngs/367/61/png-transparent-cinemax-hd-logo.png",
@@ -114,7 +113,6 @@ image:"https://dookeela.live/uploads/1703787733.png",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "embed":"false"
 },
-
 {
 "name":"",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",
@@ -122,7 +120,6 @@ image:"https://dookeela.live/uploads/1703787733.png",
 "referer": "https://freetvdd.com",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
-
 {
 "name":"",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9WX2-H1YO-fvH-2CaFKkTdwF0OtT7xSwRg&usqp=CAU",
@@ -230,14 +227,12 @@ image:"https://www.i-pic.info/i/zDt3492949.jpg",
 url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
-
 {
 name:"Movies World 2",
 image:"https://www.i-pic.info/i/zDt3492949.jpg",
 url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
-
 {
 name:"Movies World 3",
 image:"https://www.i-pic.info/i/zDt3492949.jpg",

@@ -93,6 +93,7 @@
 "url":"https://dookeela.live:443/live-tv/truemoviehits/",
 "referer":"https://freetvdd.com/"
 },
+
 {
 "name":"",
 "image":"https://www.img01.xyz/assets/img/ch_logo/sd-filmasia.png",
@@ -114,6 +115,12 @@
 "referer":"https://streaming.livescorethai.net/",
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "embed":"false"
+},
+{ 
+"name":"",
+"image":"https://dookeela.live/uploads/1719803240.png",
+"url":"https://dookeela.live:443/live-tv/ccm/",
+"referer":"https://freetvdd.com/"
 },
 {
 "name":"",

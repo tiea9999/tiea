@@ -54,12 +54,14 @@
 "embed":"false"
 },
 {
-"name":"",
-"image":"https://dookeela.live/uploads/1703787733.png",
-"url":"https://dookeela.live:443/live-tv/mono29plus/",
-"referer":"https://dookeela.live:443/live-tv/mono29plus/",
-"userAgent":"Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36",
-"embed":"false"
+{
+"name":" ",
+"image":"https://dl.dropbox.com/scl/fi/spi5xwl4vo2nv6yhi1unc/mono-plus.jpg?rlkey=2c1ki02ph5hnw2ac1wdzfc68c&dl=0",
+"url":"https://wandering-oldman.github.io/3bb-monoplus/3bb-monoplus.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
 "name":"",

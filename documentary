@@ -8,6 +8,209 @@
 		"stations":[
 
 
+{"name":"Love Nature🇹🇭",
+"image":"https://i.imgur.com/p8zXAcs.png",
+"url":"https://dookeela.live/live-tv/love-nature-4k",
+"playInNatPlayer": "true"},
+
+{"name":"Love Nature 4K",
+"image":"https://i.imgur.com/2gueo0D.png",
+"url":"https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8",
+"playInNatPlayer": "true"},
+
+{"name":"Discovery🇹🇭",
+"image":"https://i.imgur.com/3ac2v0P.png",
+"url": "https://dookeela.live/live-tv/discovery",
+"playInNatPlayer": "true"},
+
+{"name":"Discovery Asia🇹🇭",
+"image":"https://i.imgur.com/719dDsH.png",
+"url": "https://dookeela.live/live-tv/discovery-asia",
+"playInNatPlayer": "true"},
+
+{"name":"History🇹🇭",
+"image":"https://i.imgur.com/XqLUjlV.png",
+"url": "https://dookeela.live/live-tv/history",
+"playInNatPlayer": "true"},
+
+{"name":"History🇬🇧",
+"image":"https://i.imgur.com/5QEtJBJ.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-history.stream/playlist.m3u8",
+"referer":"https://livescorethai.net/"},
+
+{"name":"Crime🇹🇭",
+"image":"https://i.imgur.com/AXFOtAI.png",
+"url":"https://dookeela.live/live-tv/crime-investigation",
+"playInNatPlayer": "true"},
+
+{"name":"Crime Investigation🇬🇧",
+"image":"https://i.imgur.com/43x1AZT.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-ci.stream/playlist.m3u8",
+"referer":"https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name": "True Crime Xtra🇬🇧",
+"image": "https://i.imgur.com/ZNz44jf.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-cbsdrama.stream/chunks.m3u8",
+"referer":"https://livescorethai.net/",
+"playInNatPlayer":"true"},
+
+{"name":"True Ex Wild🇹🇭",
+"image":"https://i.imgur.com/Q8OmNtJ.png",
+"url": "https://dookeela.live/live-tv/trueexplorewild",
+"playInNatPlayer": "true"},
+
+{"name": "True Ex Life🇹🇭",
+"image": "https://i.imgur.com/3kHKSJZ.png",
+"url": "https://dookeela.live/live-tv/trueexplorelife",
+"playInNatPlayer": "true"},
+
+{"name":"True Ex Sci🇹🇭",
+"image":"https://i.imgur.com/yAqxIyy.png",
+"url": "https://dookeela.live/live-tv/trueexploresci",
+"playInNatPlayer": "true"},
+
+{"name":"Animal Planet🇹🇭",
+"image":"https://i.imgur.com/KtF82Z0.png",
+"url": "https://dookeela.live/live-tv/animal-planet",
+"playInNatPlayer": "true"},
+
+{"name":"Animal Planet HD",
+"image":"https://i.imgur.com/5Vfqolq.png",
+"url":"https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8",
+"playInNatPlayer": "true"},
+
+{"name":"สำรวจโลก🇹🇭",
+"image":"https://i.imgur.com/DDUY0cf.png",
+"url":"https://dookeela.live/live-tv/samrujlok",
+"playInNatPlayer":"true"},
+
+{"name":"Animal Show🇹🇭",
+"image":"https://i.imgur.com/rKc5zvV.png",
+"url":"https://dookeela.live/live-tv/animalshow",
+"playInNatPlayer":"true"},
+
+{"name":"MYSCI🇹🇭",
+"image":"https://i.imgur.com/zbJRG3N.png",
+"url":"https://dookeela.live/live-tv/mysci",
+"playInNatPlayer":"true"},
+
+{"name":"Global-Trekker🇹🇭",
+"image":"https://i.imgur.com/qDhHMf4.png",
+"url":"https://dookeela.live/live-tv/global-trekker-channel",
+"playInNatPlayer": "true"},
+
+{"name":"FW Documentary",
+"image":"https://i.imgur.com/AmF6PSU.png",
+"url":"https://www.inwiptv.com/player_demo.php?channel=91303",
+"referer":"https://www.inwiptv.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer":"true"},
+
+{"name":"Pet Club TV",
+"image":"https://i.imgur.com/mFDQpkF.png",
+"url":"https://petclub-samsungaus.amagi.tv/playlist.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Nat Geo Graphic-A🇺🇸",
+"image":"https://i.imgur.com/e8h7lxK.png",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium328/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Nat Geo Graphic-B🇺🇸",
+"image":"https://i.imgur.com/e8h7lxK.png",
+"url":"https://dookeela.live/live-tv/national-geographic",
+"playInNatPlayer": "true"},
+
+{"name":"Nat Geo Wild-A🇺🇸",
+"image":"https://i.imgur.com/MlkcvU6.png",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium745/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Nat Geo Wild-B🇺🇸",
+"image":"https://i.imgur.com/MlkcvU6.png",
+"url":"https://dookeela.live/live-tv/nat-geo-wild",
+"playInNatPlayer": "true"},
+
+{"name":"OutDoor",
+"image":"https://i.imgur.com/nTPAGzN.png",
+"url":"https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb513916657364909bca3678d5d31fdd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff695c811fd5716d340f5b63c009967a05dece0be81168297021c8e3eb3fc69c110eacdb093a32c8027a2c8212058c7c087799ce1f0b8e32fc39261bfa0663537ddcef5db3764cc59e0a9b1c78ddfc9f3826785958815e5bf7b458a7aab05f42df6dbcb0191cc43244e6d714d4dc48bb89c90dcf478774a411c890f48cd072c6bcb35b0ae7e04e6b6c0a3ff1b47192c051b7d49e1b56f61309756e9e623ef1842a1d954e422695972d42678d74ec882b866b38b042e92760cd8819c858f79b2982acb5d8494e32eea3310476f0b7f0daa9775bc917abe820aec398d2d66df4e7902ef25d1218da91ea078dc25ab4b72d82bf6616020df02f94b0bd99e6bc814bd3708497b4d00a4b40670b15951d8cae2d8a799328f38e2428521b10f6da4d92d2901e11725f8a8569d11130b0cfc4d68c597599365b12c348ed7629208c386577e06dde9f3f67866f4aa63d2ff45530cf13aeec62a5e98bab567b86dfc143ed66a0e05985b851ff1f49336884fb225b4a5b6e90bf367f5757f705b58384b10d4a6a8ad0c2f1c75f3d7d49345a1e84efe230d6cef7201312ce443522133412850fc266cf0a2b527fd17fb09bb5ff690621aca439490b9308802e/21/1920x1080_5287612/index.m3u8",
+"playInNatPlayer": "true"},
+
+{"name":"DMAX🇺🇸",
+"image":"https://i.imgur.com/yjiV2Pc.png",
+"url":"https://varun-iptv.netlify.app/m3u/DMAX.m3u8",
+"playInNatPlayer": "true"},
+
+{"name":"DMAX🇬🇧",
+"image":"https://i.imgur.com/yCMIuPC.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-dmax.stream/playlist.m3u8",
+"referer":"https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name": "Motorvision",
+"image": "https://i.imgur.com/KXvLgEn.png",
+"url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h&w&content_title=o4SANy4zS5bvgRz4Niq-&content_series=603fb593a99efc002dbf90e4&custom4=plex&gdpr=0&device_make&device_model&coppa=0&us_privacy=1---&custom_6=o4SANy4zS5bvgRz4Niq-&custom_7=603fb593a99efc002dbf90e4&is_lat=0&fbclid=IwZXh0bgNhZW0CMTAAAR3phdtyJFWkXFcz7e7_KSH6gOu4JKkhURQMPLkVdNDIu0bMOV3CvcN4wq8_aem_AcCtCSEAgOPsu9AWDuPM0Ick81L0o6tb1hWi-jVgyXtLuvF_cGMHNFW5a-YFnVZME9JJadtZ4aPMy_oWbEMYcd7r",
+"playInNatPlayer": "true"},
+
+{"name":"Discovery Turbo",
+"image":"https://i.imgur.com/BbZ65Ei.png",
+"url":"https://varun-iptv.netlify.app/m3u/discovery_Turbo.m3u8",
+"playInNatPlayer": "true"},
+
+{"name":"Discovery Turbo🇬🇧",
+"image":"https://i.imgur.com/BbZ65Ei.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/playlist.m3u8",
+"referer":"https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name":"Crime Investigation🇬🇧",
+"image":"https://i.imgur.com/43x1AZT.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-ci.stream/playlist.m3u8",
+"referer":"https://livescorethai.net/"},
+
+{"name":"Discovery History🇬🇧",
+"image":"https://i.imgur.com/p8vCFwn.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/playlist.m3u8",
+"referer":"https://livescorethai.net/"},
+
+{"name":"Discovery🇬🇧",
+"image":"https://i.imgur.com/lNsF2mN.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-discovery.stream/playlist.m3u8",
+"referer":"https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name":"Discovery HD",
+"image":"https://i.imgur.com/l9SfW87.png",
+"url":"https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Discovery Sci",
+"image":"https://i.imgur.com/doOXeuc.png",
+"url":"https://varun-iptv.netlify.app/m3u/discovery_Science.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Discovery Life",
+"image":"https://i.imgur.com/Wwh8jhr.png",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium311/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Investigation Discovery🇬🇧",
+"image":"https://i.imgur.com/iEWvmvP.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-id.stream/playlist.m3u8",
+"referer":"https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+
+
+]
+}
 
 
       

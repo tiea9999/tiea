@@ -8,6 +8,197 @@
 "stations": 
 [
 
+{"name":"Boom-A",
+"image":"https://i.imgur.com/64bDHYh.png",
+"url":"https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/chunklist.m3u8",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer":"true"},
+
+{"name":"Boom-B",
+"image":"https://i.imgur.com/64bDHYh.png",
+"url":"https://dookeela.live/live-tv/boomerang",
+"playInNatPlayer":"true"},
+
+{"name":"Boom-C",
+"image":"https://i.imgur.com/64bDHYh.png",
+"url":"https://aisplay.ais.co.th/portal/live?vid=597dfea47ed5a24e46f67259",
+userAgent:"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Spark Play-A",
+"image":"https://i.imgur.com/rBsycgd.png",
+"url": "https://dookeela.live/live-tv/truesparkplay",
+"playInNatPlayer": "true"},
+
+{"name":"Spark Play-B",
+"image":"https://i.imgur.com/rBsycgd.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=421&tv=TrueSparkPlay",
+"playInNatPlayer":"true"},
+
+{"name":"DreamWorks-A",
+"image":"https://i.imgur.com/dVURfUY.jpg",
+"url": "https://dookeela.live/live-tv/dreamworks",
+"playInNatPlayer": "true"},
+
+{"name":"DreamWorks-B",
+"image":"https://i.imgur.com/dVURfUY.jpg",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=460&tv=DreamWorks",
+"playInNatPlayer":"true"},
+
+{"name":"Cartoon Club-A",
+"image":"https://i.imgur.com/RFEOprW.png",
+"url":"https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8",
+"playInNatPlayer": "true"},
+
+{"name": "Cartoon Club-B", 
+"image": "https://i.imgur.com/RFEOprW.png", 
+"url":"https://www.inwiptv.com/player_demo.php?channel=27203","referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"},
+
+{"name": "Cartoon Club-C",
+"image": "https://i.imgur.com/RFEOprW.png",
+"url": "https://dookeela.live/live-tv/cartoonclub",
+"playInNatPlayer": "true"},
+
+{"name": "Cartoon Club-D",
+"image": "https://i.imgur.com/RFEOprW.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=597d21477ed5a24e46f67258",
+userAgent:"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"CN-A",
+"image":"https://i.imgur.com/wKvIQum.jpg",
+"url":"https://dookeela.live/live-tv/cartoon-network",
+"playInNatPlayer": "true"},
+
+{"name":"CN-B",
+"image":"https://i.imgur.com/wKvIQum.jpg",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=314&tv=CartoonNetwork",
+"playInNatPlayer":"true"},
+
+{"name": "Cartoonito-A",
+"image": "https://i.imgur.com/hSHLBxj.png",
+"url": "https://dookeela.live/live-tv/cartoonito",
+"playInNatPlayer": "true"},
+
+{"name":"Cartoonito-B",
+"image":"https://i.imgur.com/hSHLBxj.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-cartoonito.stream/chunks.m3u8",
+"referer":"https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name": "Nick Jr-A",
+"image": "https://i.imgur.com/2l1BWW7.png",
+"url": "https://dookeela.live/live-tv/nickjr",
+"playInNatPlayer": "true"},
+
+{"name": "Nick Jr-B",
+"image": "https://i.imgur.com/2l1BWW7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=316&tv=NickJr.",
+"playInNatPlayer": "true"},
+
+{"name":"Nickelodeon-A",
+"image":"https://i.imgur.com/hrtoXA7.png",
+"url":"https://dookeela.live/live-tv/nickelodeon",
+"playInNatPlayer": "true"},
+
+{"name":"Nickelodeon-B",
+"image":"https://i.imgur.com/hrtoXA7.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=315&tv=Nickelodeon",
+"playInNatPlayer": "true"},
+
+{"name":"Nick Toons-A",
+"image":"https://i.imgur.com/IiRWXnV.png",
+"url":"https://dookeela.live/live-tv/nicktoons",
+"playInNatPlayer":"true"},
+
+{"name":"Nick Toons-B",
+"image":"https://i.imgur.com/IiRWXnV.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=351&tv=nicktoons|Germany",
+"playInNatPlayer":"true"},
+
+{"name":"Animax",
+"image":"https://i.imgur.com/rJgJnzO.png",
+"url":"https://dookeela.live/live-tv/animax",
+"playInNatPlayer": "true"},
+
+{"name": "FwTooN", 
+"image": "https://i.imgur.com/b8PrIyP.png", "url":"https://www.inwiptv.com/player_demo.php?channel=92941",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"},
+
+{"name":"CBeebies ",
+"image":"https://i.imgur.com/FWRI9JT.png",
+"url":"https://dookeela.live/live-tv/cbeebies",
+"playInNatPlayer":"true"},
+
+{"name":"ZooMoo",
+"image":"https://i.imgur.com/bFqu77Y.jpg",
+"url":"https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"PBS Kids",
+"image":"https://img.pic.in.th/PBS_Kids.png",
+"url":"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Kids TV",
+"image":"https://i.imgur.com/5bPhqa7.png",
+"url":"https://www.distro.tv/live/kids-tv/",
+"playInNatPlayer":"true"},
+
+{"name":"Toonz Kids",
+"image":"https://i.imgur.com/y90nR65.png",
+"url":"https://www.distro.tv/live/toonzkids/",
+"playInNatPlayer":"true"},
+
+{"name":"Discovery Kids",
+"image":"https://i.imgur.com/7MzQgAI.png",
+"url":"https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Disney Jr.",
+"image":"https://i.imgur.com/cXvHqOH.png",
+"url":"https://dookeela.live/live-tv/disney-junior",
+"playInNatPlayer":"true"},
+
+{"name":"Disney Jr.",
+"image":"https://i.imgur.com/cXvHqOH.png",
+"url":"http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23",
+"playInNatPlayer":"true"},
+
+{"name":"Disney XD",
+"image":"https://i.imgur.com/vfID0UR.png",
+"url":"https://dookeela.live/live-tv/disneyxd",
+"playInNatPlayer":"true"},
+
+{"name":"Disney Channel",
+"image":"https://i.imgur.com/HxysW1E.png",
+"url":"https://dookeela.live/live-tv/disney-channel",
+"playInNatPlayer":"true"},
+
+{"name":"Disney Channel",
+"image":"https://i.imgur.com/HxysW1E.png",
+"url":"http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24",
+"playInNatPlayer":"true"},
+
+{"name":"Astro Ceria",
+"image":"https://i.imgur.com/H1gnFfC.png",
+"url":"https://dookeela.live/live-tv/astroceria",
+"playInNatPlayer":"true"},
+
+{"name":"Moonbug",
+"image":"https://i.imgur.com/NxHyEei.png",
+"url":"https://dookeela.live/live-tv/moonbug",
+"playInNatPlayer":"true"},
+
+
+
+
+
+
+]
+}
 
 {
 "name": "Animax",

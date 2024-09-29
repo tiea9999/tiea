@@ -5,6 +5,280 @@
 "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/movie live",
 "stations":[
 
+{"name":"True Film1-A",
+"image": "https://i.imgur.com/zAxHCj1.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name":"True Film1-B",
+"image": "https://i.imgur.com/zAxHCj1.png",
+"url": "https://dookeela.live/live-tv/truefilm1",
+"playInNatPlayer": "true"},
+
+{"name": "True Film2-A",
+"image": "https://i.imgur.com/nVh6Eag.png",
+"url": "https://dookeela.live/live-tv/truefilm2",
+"playInNatPlayer": "true"},
+
+{"name": "True Film2-B",
+"image": "https://i.imgur.com/nVh6Eag.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=420&tv=TrueFilm2",
+"playInNatPlayer":"true"},
+
+{"name":"True Movie Hits-A",
+"image": "https://i.imgur.com/7FhEtOW.png",
+"url": "https://dookeela.live/live-tv/truemoviehits",
+"playInNatPlayer": "true"},
+
+{"name":"True Movie Hits-B",
+"image": "https://i.imgur.com/7FhEtOW.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name": "True Film Asia-A",
+"image": "https://i.imgur.com/pQXYZeQ.png",
+"url": "https://dookeela.live/live-tv/truefilmasia",
+"playInNatPlayer": "true"},
+
+{"name": "True Film Asia-B",
+"image": "https://i.imgur.com/pQXYZeQ.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-filmasia.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name":"True Thai Film-A",
+"image": "https://i.imgur.com/iaAwiCr.png",
+"url": "https://dookeela.live/live-tv/truethaifilm",
+"playInNatPlayer": "true"},
+
+{"name":"True Thai Film-B",
+"image": "https://i.imgur.com/iaAwiCr.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name":"True Series-A",
+"image": "https://i.imgur.com/5mY7JhH.png",
+"url": "https://dookeela.live/live-tv/trueseries",
+"playInNatPlayer": "true"},
+
+{"name":"True Series-B",
+"image": "https://i.imgur.com/5mY7JhH.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8",
+"referer": "https://www.livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name":"True Asian More",
+"image": "https://i.imgur.com/nYQhpch.png",
+"url": "https://dookeela.live/live-tv/trueasianmore",
+"playInNatPlayer": "true"},
+
+{"name":"AXN-A",
+"image": "https://i.imgur.com/FQfTQcL.png",
+"url": "https://dookeela.live/live-tv/axn",
+"playInNatPlayer": "true"},
+
+{"name":"AXN-B",
+"image": "https://i.imgur.com/FQfTQcL.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name": "Warner TV-A",
+"image": "https://i.imgur.com/ewzOnOs.png",
+"url": "https://dookeela.live/live-tv/warnertv",
+"playInNatPlayer": "true"},
+
+{"name":"Warner TV-B",
+"image": "https://i.imgur.com/ewzOnOs.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name":"Paramount",
+"image": "https://i.imgur.com/NlkgEqK.png",
+"url": "https://dookeela.live/live-tv/paramount-network",
+"playInNatPlayer": "true"},
+
+{"name":"Hits",
+"image": "https://i.imgur.com/VKE7TQ6.png",
+"url": "https://dookeela.live/live-tv/hits",
+"playInNatPlayer": "true"},
+
+{"name":"HitsMovies",
+"image": "https://i.imgur.com/5ABj3dB.png",
+"url": "https://dookeela.live/live-tv/hits-movies",
+"playInNatPlayer": "true"},
+
+{"name":"CCM-A",
+"image": "https://i.imgur.com/m58hsEH.png",
+"url": "https://dookeela.live/live-tv/ccm",
+"playInNatPlayer": "true"},
+
+{"name":"CCM-B",
+"image": "https://i.imgur.com/m58hsEH.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name":"TVB Classic",
+"image": "https://i.imgur.com/Ohnaapf.png",
+"url": "https://dookeela.live/live-tv/tvbclassichd",
+"playInNatPlayer": "true"},
+
+{"name":"TVB ไทย",
+"image":"https://i.imgur.com/TZUXPsS.png",
+"url":"https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/chunks.m3u8",
+"playInNatPlayer": "true"},
+
+{"name":"tvN Movies",
+"image": "https://i.imgur.com/R0OLHCx.png",
+"url": "https://dookeela.live/live-tv/tvn-movies",
+"playInNatPlayer": "true"},
+
+{"name":"Rock Action",
+"image":"https://i.imgur.com/d2IQ3NN.png",
+"url": "https://dookeela.live/live-tv/rock-action",
+"playInNatPlayer": "true"},
+
+{"name":"Rock Enter",
+"image":"https://i.imgur.com/ftiU8rU.png",
+"url": "https://dookeela.live/live-tv/rock-entertainment",
+"playInNatPlayer": "true"},
+
+{"name": "MONO Plus+",
+"image": "https://i.imgur.com/pfk1Q50.png",
+"url": "https://dookeela.live/live-tv/mono29plus",
+"playInNatPlayer": "true"},
+
+{"name":"Mono29-A",
+"image":"https://i.imgur.com/vzsd9AP.png",
+"url":"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8",
+"playInNatPlayer": "true"},
+
+{"name": "Mono29-B",
+"image": "https://i.imgur.com/vzsd9AP.png",
+"url":"https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8",
+"playInNatPlayer": "true"},
+
+{"name": "HBO TH",
+"image": "https://i.imgur.com/TNFjkiq.png",
+"url": "https://dookeela.live/live-tv/hbo",
+"playInNatPlayer": "true"},
+
+{"name": "HBO Sig",
+"image": "https://i.imgur.com/dblC0JA.png",
+"url": "https://dookeela.live/live-tv/hbo-signature",
+"playInNatPlayer": "true"},
+
+{"name": "HBO Hits",
+"image": "https://i.imgur.com/WX13Xmr.png",
+"url": "https://dookeela.live/live-tv/hbo-hits",
+"playInNatPlayer": "true"},
+
+{"name": "HBO Fam",
+"image": "https://i.imgur.com/Av91xj7.png",
+"url": "https://dookeela.live/live-tv/hbo-family",
+"playInNatPlayer": "true"},
+
+{"name": "HBO Cinemax",
+"image": "https://i.imgur.com/hghf8kw.png",
+"url": "https://dookeela.live/live-tv/cinemax",
+"playInNatPlayer": "true"},
+
+{"name": "3BB Asian",
+"image": "https://i.imgur.com/CRBVtql.png",
+"url": "https://dookeela.live/live-tv/3bbasian",
+"playInNatPlayer": "true"},
+
+{"name":"Channel 8",
+"image":"https://i.imgur.com/luT0wN5.png",
+"url":"https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8"},
+
+{"name": "Fwmovie", 
+"image": "https://i.imgur.com/VK5P0rA.png", 
+"url":"https://www.inwiptv.com/player_demo.php?channel=95262",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"},
+
+{"name": "Fwseries", 
+"image": "https://i.imgur.com/4MVL36O.png", 
+"url":"https://www.inwiptv.com/player_demo.php?channel=94898",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"},
+
+{"name":"SIAM NEWS",
+"image":"https://i.imgur.com/pMZWbfA.png",
+"url":"https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"},
+
+{"name":"THAI NEWS",
+"image":"https://i.imgur.com/9HivSPP.png",
+"url":"https://live.thaitvstream.com/play/thainews/index.m3u8",
+"playInNatPlayer": "true"},
+
+{"name": "มังกร",
+"image": "https://i.imgur.com/T1wOMHM.png",
+"url": "http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
+"playInNatPlayer": "true"},
+
+{"name": "Media TV ",
+"image": "https://i.imgur.com/J4x4VU1.png",
+"url": "http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8",
+"playInNatPlayer": "true"},
+
+{"name": "แอททีวี @ TV",
+"image": "https://i.imgur.com/8M3J3VL.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=5981e47d7ed5a21c6fb4562b",
+"referer": "https://ais-vidnt.com/",
+userAgent:"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Chiangrai Channel",
+"image":"https://i.imgur.com/UBAE6D3.png",
+"url":"https://live.thaitvstream.com/play/chiangrai/index.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Cool Channel",
+"image":"https://i.imgur.com/Z6uwcWG.png",
+"url":"https://live-iptv.cool-channel.com/cool/live-manifest.m3u8",
+"playInNatPlayer":"true"},
+
+
+
+
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
 "name":"",
 "image":"https://i.postimg.cc/JnHkLGFv/hboth.png",

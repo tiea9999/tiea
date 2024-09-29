@@ -244,10 +244,69 @@ userAgent:"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/
 "image":"https://i.imgur.com/Z6uwcWG.png",
 "url":"https://live-iptv.cool-channel.com/cool/live-manifest.m3u8",
 "playInNatPlayer":"true"},
+{"name":"Life Time-A🇹🇭",
+"image":"https://i.imgur.com/hFfvu6e.png",
+"url":"https://dookeela.live/live-tv/lifetime",
+"playInNatPlayer":"true"},
+
+{"name":"LifeTime-B🇹🇭",
+"image":"https://i.imgur.com/hFfvu6e.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8",
+"referer":"https://livescorethai.net/",
+"playInNatPlayer":"true"},
+{"name":"True X-zyte-A🇹🇭",
+"image":"https://i.imgur.com/zkVyCwI.png",
+"url": "https://dookeela.live/live-tv/truex-zyte",
+"playInNatPlayer": "true"},
+
+{"name":"True X-zyte-B🇹🇭",
+"image":"https://i.imgur.com/zkVyCwI.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8",
+"referer":"https://streaming.livescorethai.net/",
+"playInNatPlayer":"true"},
+
+{"name": "KMTV🇹🇭",
+"image": "https://i.imgur.com/mcU8tWI.jpg",
+"url": "https://dookeela.live/live-tv/kmtv",
+"playInNatPlayer": "true"},
+
+{"name":"KBS World-A",
+"image":"https://i.imgur.com/tKN1FU8.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-kbsworld.stream/playlist.m3u8",
+"referer":"https://livescorethai.net/",
+"playInNatPlayer":"true"},
+
+{"name":"KBS World-B",
+"image":"https://i.imgur.com/tKN1FU8.png",
+"url": "https://dookeela.live/live-tv/kbsworld",
+"playInNatPlayer": "true"},
+
+{"name":"KBS Korea",
+"image":"https://i.imgur.com/Na5xId1.png",
+"url": "https://dookeela.live/live-tv/kbskorea",
+"playInNatPlayer": "true"},
+
+{"name":"Kix",
+"image":"https://i.imgur.com/22Mc1rD.png",
+"url": "http://210.210.155.66/h/h220/02.m3u8",
+"playInNatPlayer": "true"},
+
+{"name":"tvN-A",
+"image":"https://i.imgur.com/pSI1QcY.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8",
+"referer":"https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name":"tvN-B",
+"image":"https://i.imgur.com/pSI1QcY.png",
+"url": "https://dookeela.live/live-tv/tvn-indonesia",
+"playInNatPlayer": "true"
 
 
 
 
+
+},
 ]
 }
 

@@ -7,18 +7,17 @@
         "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/real movie",
    "groups": [
 
+
+{
+         "name": " 24-HD ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+         "url": "https://drive.google.com/uc?id=1HHBM_V56tUVl6ZvceCnzPVa5o0-Nw7SM",
+         "import": true
+},
 {
               "name":"ดูหนังออนไลน์",
               "image":"https://bit.ly/3Poo4eR",
              "url": "https://www.dropbox.com/scl/fi/230cvkcdmqyur1f8j224j/.w3u?rlkey=025hwqzey7w8uruqmfvkxr6ab&dl=1",
              "import":"true"
-},
-{
-          
-                "name": "ดูหนังออนไลน์พากษ์ไทย",
-		"image":"https://docs.google.com/uc?export=download&id=1u628uv_TLDvAF1G_4MzGD5Q9Bl8vc2ed&authuser=0",
-		"url": "https://www.dropbox.com/scl/fi/9v760egz1bls4qbz2nxxb/.w3u?rlkey=m8l644fqfoboarjhjwkmzi3og&dl=1",
-                "import":"true"
 },
 {
              "name": "   ",
@@ -28,3 +27,10 @@
 },
 ]
 }	                                                                                                                                            
+{
+          
+                "name": "ดูหนังออนไลน์พากษ์ไทย",
+		"image":"https://docs.google.com/uc?export=download&id=1u628uv_TLDvAF1G_4MzGD5Q9Bl8vc2ed&authuser=0",
+		"url": "https://www.dropbox.com/scl/fi/9v760egz1bls4qbz2nxxb/.w3u?rlkey=m8l644fqfoboarjhjwkmzi3og&dl=1",
+                "import":"true"
+},

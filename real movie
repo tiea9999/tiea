@@ -1,11 +1,11 @@
 
  
     {
-	 "name": "movie",
-   "author": "ติดตาม@ เตี้ย",
+	"name": "movie",
+        "author": "ติดตาม@ เตี้ย",
 	"image":"https://bit.ly/3Poo4eR",
         "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/real movie",
-   "groups": [
+       "groups": [
 
 
 {
@@ -14,16 +14,15 @@
          "import": true
 },
 {
-              "name":"ดูหนังออนไลน์",
-              "image":"https://bit.ly/3Poo4eR",
-             "url": "https://www.dropbox.com/scl/fi/230cvkcdmqyur1f8j224j/.w3u?rlkey=025hwqzey7w8uruqmfvkxr6ab&dl=1",
-             "import":"true"
+         "name": " Nung2HD ","image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+         "url": "https://drive.google.com/uc?id=1t1is6ZUd3N5w3VHTOF9GavLnwTZHG4hb",
+         "import": true
 },
 {
-             "name": "   ",
-	    "image": "https://docs.google.com/uc?export=download&id=12x8XXlqcFzkg-zSfmu6Mm5Wl5UFQHKQc",
-            "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/sexy ชุด",
-           "import": "true"
+         "name": "   ",
+         "image": "https://docs.google.com/uc?export=download&id=12x8XXlqcFzkg-zSfmu6Mm5Wl5UFQHKQc",
+         "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/sexy ชุด",
+         "import": "true"
 },
 ]
 }	                                                                                                                                            
@@ -33,4 +32,10 @@
 		"image":"https://docs.google.com/uc?export=download&id=1u628uv_TLDvAF1G_4MzGD5Q9Bl8vc2ed&authuser=0",
 		"url": "https://www.dropbox.com/scl/fi/9v760egz1bls4qbz2nxxb/.w3u?rlkey=m8l644fqfoboarjhjwkmzi3og&dl=1",
                 "import":"true"
+},
+{
+              "name":"ดูหนังออนไลน์",
+              "image":"https://bit.ly/3Poo4eR",
+             "url": "https://www.dropbox.com/scl/fi/230cvkcdmqyur1f8j224j/.w3u?rlkey=025hwqzey7w8uruqmfvkxr6ab&dl=1",
+             "import":"true"
 },

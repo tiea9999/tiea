@@ -38,35 +38,15 @@
         "import": "false"
 },
 {
-       "name": "ดูซีรี่ย์ พากษ์ไทย",
-       "image":"https://docs.google.com/uc?export=download&id=12xS5nQHZgzont5Wt1riaWw6vdpYUZJ5I",
-       "url": "https://www.dropbox.com/scl/fi/4ddc5ds4i0vupz48gz75b/series-indy_-_-2.w3u?rlkey=xclc8dzqvgqqynfsjlqktyc6i&dl=1",
-       "import": "false"
- },
-{
 "name": " Tvallseries ","image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
 "url": "https://drive.google.com/uc?id=1CK71aLlKt52aCf_WR4ZQEmfGZiNou-N1",
 "import": true
 },
- 
 {
 "name": " Dooseries4k ","image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
 "url": "https://drive.google.com/uc?id=15054Zyjz2PK7EJ8d9xnBgrNS6VZwWh8L",
 "import": true
 },
- 
-{
-"name": " Anime-Indy ","image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
-"url": "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he",
-"import": true
-},
- 
-{
-"name": " Anime Moji ","image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
-"url": "https://drive.google.com/uc?id=196x0N2t-khH8pxP8dmY24RwVizc_VB5w",
-"import": true
-},
- 
 {
 "name": " 123 HD ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
 "url": "https://drive.google.com/uc?id=1T4Mo-w5413bTyIsp7N_bu7o09RkRb0Bj",
@@ -78,23 +58,37 @@
 "import": true
 },
 {
+"name": " Anime-Indy ","image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
+"url": "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he",
+"import": true
+
+      }
+      ]
+      }
+      ]
+      }
+
+
+
+
+
+{
+       "name": "ดูซีรี่ย์ พากษ์ไทย",
+       "image":"https://docs.google.com/uc?export=download&id=12xS5nQHZgzont5Wt1riaWw6vdpYUZJ5I",
+       "url": "https://www.dropbox.com/scl/fi/4ddc5ds4i0vupz48gz75b/series-indy_-_-2.w3u?rlkey=xclc8dzqvgqqynfsjlqktyc6i&dl=1",
+       "import": "false"
+ },
+},
+{
 "name": " Series-indy ","image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
 "url": "https://drive.google.com/uc?id=10Wu_OgA7hZfOKoDVZ9pFrFKezUtqLAyz",
 "import": true
-      }
-      ]
-      }
-      ]
-      }
 
-
-
-
-
-
-
-
-
+{
+"name": " Anime Moji ","image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
+"url": "https://drive.google.com/uc?id=196x0N2t-khH8pxP8dmY24RwVizc_VB5w",
+"import": true
+},
 
 {
         "name": " ซีรี่ย์ Disney+ ",

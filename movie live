@@ -5,11 +5,7 @@
 "url": "https://raw.githubusercontent.com/tiea9999/tiea/main/movie live",
 "stations":[
 
-{"name":"True Film1-A",
-"image": "https://i.imgur.com/zAxHCj1.png",
-"url": "https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8",
-"referer": "https://livescorethai.net/",
-"playInNatPlayer": "true"},
+
 
 {"name":"True Film1-B",
 "image": "https://i.imgur.com/zAxHCj1.png",
@@ -31,44 +27,28 @@
 "url": "https://dookeela.live/live-tv/truemoviehits",
 "playInNatPlayer": "true"},
 
-{"name":"True Movie Hits-B",
-"image": "https://i.imgur.com/7FhEtOW.png",
-"url": "https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8",
-"referer": "https://livescorethai.net/",
-"playInNatPlayer": "true"},
+
 
 {"name": "True Film Asia-A",
 "image": "https://i.imgur.com/pQXYZeQ.png",
 "url": "https://dookeela.live/live-tv/truefilmasia",
 "playInNatPlayer": "true"},
 
-{"name": "True Film Asia-B",
-"image": "https://i.imgur.com/pQXYZeQ.png",
-"url": "https://streaming.livescorethai.net/iptv/sd-filmasia.stream/chunks.m3u8",
-"referer": "https://livescorethai.net/",
-"playInNatPlayer": "true"},
+
 
 {"name":"True Thai Film-A",
 "image": "https://i.imgur.com/iaAwiCr.png",
 "url": "https://dookeela.live/live-tv/truethaifilm",
 "playInNatPlayer": "true"},
 
-{"name":"True Thai Film-B",
-"image": "https://i.imgur.com/iaAwiCr.png",
-"url": "https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8",
-"referer": "https://livescorethai.net/",
-"playInNatPlayer": "true"},
+
 
 {"name":"True Series-A",
 "image": "https://i.imgur.com/5mY7JhH.png",
 "url": "https://dookeela.live/live-tv/trueseries",
 "playInNatPlayer": "true"},
 
-{"name":"True Series-B",
-"image": "https://i.imgur.com/5mY7JhH.png",
-"url": "https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8",
-"referer": "https://www.livescorethai.net/",
-"playInNatPlayer": "true"},
+
 
 {"name":"True Asian More",
 "image": "https://i.imgur.com/nYQhpch.png",
@@ -80,22 +60,14 @@
 "url": "https://dookeela.live/live-tv/axn",
 "playInNatPlayer": "true"},
 
-{"name":"AXN-B",
-"image": "https://i.imgur.com/FQfTQcL.png",
-"url": "https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8",
-"referer": "https://livescorethai.net/",
-"playInNatPlayer": "true"},
+
 
 {"name": "Warner TV-A",
 "image": "https://i.imgur.com/ewzOnOs.png",
 "url": "https://dookeela.live/live-tv/warnertv",
 "playInNatPlayer": "true"},
 
-{"name":"Warner TV-B",
-"image": "https://i.imgur.com/ewzOnOs.png",
-"url": "https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8",
-"referer": "https://livescorethai.net/",
-"playInNatPlayer": "true"},
+
 
 {"name":"Paramount",
 "image": "https://i.imgur.com/NlkgEqK.png",
@@ -117,11 +89,7 @@
 "url": "https://dookeela.live/live-tv/ccm",
 "playInNatPlayer": "true"},
 
-{"name":"CCM-B",
-"image": "https://i.imgur.com/m58hsEH.png",
-"url":"https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8",
-"referer": "https://livescorethai.net/",
-"playInNatPlayer": "true"},
+
 
 {"name":"TVB Classic",
 "image": "https://i.imgur.com/Ohnaapf.png",
@@ -158,10 +126,7 @@
 "url":"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8",
 "playInNatPlayer": "true"},
 
-{"name": "Mono29-B",
-"image": "https://i.imgur.com/vzsd9AP.png",
-"url":"https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8",
-"playInNatPlayer": "true"},
+
 
 {"name": "HBO TH",
 "image": "https://i.imgur.com/TNFjkiq.png",
@@ -249,32 +214,20 @@ userAgent:"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/
 "url":"https://dookeela.live/live-tv/lifetime",
 "playInNatPlayer":"true"},
 
-{"name":"LifeTime-B🇹🇭",
-"image":"https://i.imgur.com/hFfvu6e.png",
-"url":"https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8",
-"referer":"https://livescorethai.net/",
-"playInNatPlayer":"true"},
+
 {"name":"True X-zyte-A🇹🇭",
 "image":"https://i.imgur.com/zkVyCwI.png",
 "url": "https://dookeela.live/live-tv/truex-zyte",
 "playInNatPlayer": "true"},
 
-{"name":"True X-zyte-B🇹🇭",
-"image":"https://i.imgur.com/zkVyCwI.png",
-"url":"https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8",
-"referer":"https://streaming.livescorethai.net/",
-"playInNatPlayer":"true"},
+
 
 {"name": "KMTV🇹🇭",
 "image": "https://i.imgur.com/mcU8tWI.jpg",
 "url": "https://dookeela.live/live-tv/kmtv",
 "playInNatPlayer": "true"},
 
-{"name":"KBS World-A",
-"image":"https://i.imgur.com/tKN1FU8.png",
-"url":"https://streaming.livescorethai.net/iptv/hd-kbsworld.stream/playlist.m3u8",
-"referer":"https://livescorethai.net/",
-"playInNatPlayer":"true"},
+
 
 {"name":"KBS World-B",
 "image":"https://i.imgur.com/tKN1FU8.png",
@@ -291,11 +244,6 @@ userAgent:"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/
 "url": "http://210.210.155.66/h/h220/02.m3u8",
 "playInNatPlayer": "true"},
 
-{"name":"tvN-A",
-"image":"https://i.imgur.com/pSI1QcY.png",
-"url":"https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8",
-"referer":"https://livescorethai.net/",
-"playInNatPlayer": "true"},
 
 {"name":"tvN-B",
 "image":"https://i.imgur.com/pSI1QcY.png",

@@ -20,7 +20,7 @@
 {"name": "True Film2-B",
 "image": "https://i.imgur.com/nVh6Eag.png",
 "url": "https://goal-th.com/ช่องรายการทีวี/?id=420&tv=TrueFilm2","referer": "https://goal-th.com/",
-"playInNatPlayer":"true"},
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" },
 
 {"name":"True Movie Hits-A",
 "image": "https://i.imgur.com/7FhEtOW.png",

@@ -19,7 +19,7 @@
 
 {"name": "True Film2-B",
 "image": "https://i.imgur.com/nVh6Eag.png",
-"url": "https://goal-th.com/ช่องรายการทีวี/?id=420&tv=TrueFilm2",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=420&tv=TrueFilm2","referer": "https://goal-th.com/",
 "playInNatPlayer":"true"},
 
 {"name":"True Movie Hits-A",

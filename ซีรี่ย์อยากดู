@@ -8,13 +8,9 @@
         "groups": [
 
 
+
 {
-"name": " 123 HD ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url": "https://www.dropbox.com/scl/fi/p47yppvdmdhb3hd34v3zp/123.w3u?rlkey=v85u7yozbly38jkz5rv7awq35&dl=1",
- "import": "false"
-},
-{
-"name": "test ","image": "https://dl.dropboxusercontent.com/scl/fi/mm985elkdnkhmv3v4bq3l/Series.png?rlkey=sh5wntduka77is1yftni2wzlz&dl=0",
+"name": "SERIES ","image": "https://dl.dropboxusercontent.com/scl/fi/mm985elkdnkhmv3v4bq3l/Series.png?rlkey=sh5wntduka77is1yftni2wzlz&dl=0",
 "url": "https://www.dropbox.com/scl/fi/z1gpn37tusr4gkw68fgah/real-series.w3u?rlkey=4b1rfiqkornkqhierpq6ug4gu&dl=1",
  "import": "false"
 },
@@ -27,7 +23,11 @@
       }
       ]
       }
-
+{
+"name": " 123 HD ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://www.dropbox.com/scl/fi/p47yppvdmdhb3hd34v3zp/123.w3u?rlkey=v85u7yozbly38jkz5rv7awq35&dl=1",
+ "import": "false"
+},
 {
 "name": " Dooseries4k ","image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
 "url": "https://drive.google.com/uc?id=15054Zyjz2PK7EJ8d9xnBgrNS6VZwWh8L",

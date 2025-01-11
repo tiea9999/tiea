@@ -9,7 +9,7 @@
 
 {
          "name": "หนังใหม่","image": "https://www.dropbox.com/scl/fi/jfhfumko3bpp8evr6hfnp/Liftplay_movie.png?rlkey=nxr6m2abjxtayi1ukluo0cwdm&dl=1",
-         "url": "https://www.dropbox.com/scl/fi/47d65lyalz8haq33kh6cx/24-hd_-2024.w3u?rlkey=e2qbm41ixzhvxt7qgg1sj2w6m&dl=1",
+         "url": "https://www.dropbox.com/scl/fi/tdqp5r5jv4396xlq1seri/24-hd_-2024.w3u?rlkey=243hatoiupp9gd1y7vdve5s3b&dl=1",
          "import": true
 },
 {
@@ -20,6 +20,11 @@
 {
          "name": "หนังจีน","image": "https://www.dropbox.com/scl/fi/jfhfumko3bpp8evr6hfnp/Liftplay_movie.png?rlkey=nxr6m2abjxtayi1ukluo0cwdm&dl=1",
          "url": "https://www.dropbox.com/scl/fi/xe0656vfmiqa3curmkk3r/.w3u?rlkey=1cz44irrrr15il7irmwsbq9d4&dl=1",
+         "import": true
+},
+{
+         "name": "หนังไทย","image": "https://www.dropbox.com/scl/fi/jfhfumko3bpp8evr6hfnp/Liftplay_movie.png?rlkey=nxr6m2abjxtayi1ukluo0cwdm&dl=1",
+         "url": "https://www.dropbox.com/scl/fi/k2mnm59nue5mmcilf4m3q/.w3u?rlkey=jatgy3so84apqz2vvu5vu9mwt&dl=1",
          "import": true
 },
 {

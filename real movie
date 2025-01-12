@@ -13,6 +13,11 @@
          "import": true
 },
 {
+         "name": "หนัง NETFLIX ","image": "https://www.dropbox.com/scl/fi/btiakijjrvm1tcry1q9ro/NetFLIX.png?rlkey=8ync71g6vlcf5clunajpi0fm9&dl=1",
+         "url": "https://www.dropbox.com/scl/fi/69bnq6za6u1r0ztxow87z/NETFLIX.w3u?rlkey=5deoienaz4w22s7fznjwmdi5l&dl=1",
+         "import": true
+},
+{
          "name": "หนังเกาหลี","image": "https://www.dropbox.com/scl/fi/jfhfumko3bpp8evr6hfnp/Liftplay_movie.png?rlkey=nxr6m2abjxtayi1ukluo0cwdm&dl=1",
          "url": "https://www.dropbox.com/scl/fi/wpmhvwoyie4k2ogbk7i90/.w3u?rlkey=a94nthcjnvvpmbldwqom9j94p&dl=1",
          "import": true

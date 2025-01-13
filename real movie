@@ -8,13 +8,17 @@
        "groups": [
 
 {
- "name": " test ","image": "https://s2.dmcdn.net/v/RoWKp1bGybHs8gB--/x720",
+         "name": " test ","image": "https://s2.dmcdn.net/v/RoWKp1bGybHs8gB--/x720",
          "url": "https://www.dropbox.com/scl/fi/8ry5p522k27xofkf5u1br/.m3u8?rlkey=79wjylwz1d47xyy7l1amxl1lf&dl=1",
          "import": true
 
 }
 ]
-},
+}
+}
+]
+}
+]
 
 
 

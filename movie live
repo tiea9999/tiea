@@ -92,17 +92,17 @@
 
 
 {"name":"TVB Classic",
-"image": "https://i.imgur.com/Ohnaapf.png",
+"image": "https://dookeela.live/uploads/1719898154.png",
 "url": "https://dookeela.live/live-tv/tvbclassichd",
 "playInNatPlayer": "true"},
 
 {"name":"TVB ไทย",
-"image":"https://i.imgur.com/TZUXPsS.png",
+"image":"https://dookeela.live/uploads/1719898154.png",
 "url":"https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/chunks.m3u8",
 "playInNatPlayer": "true"},
 
 {"name":"tvN Movies",
-"image": "https://i.imgur.com/R0OLHCx.png",
+"image": "https://dookeela.live/uploads/1703833429.png",
 "url": "https://dookeela.live/live-tv/tvn-movies",
 "playInNatPlayer": "true"},
 

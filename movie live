@@ -210,13 +210,13 @@ userAgent:"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/
 "url":"https://live-iptv.cool-channel.com/cool/live-manifest.m3u8",
 "playInNatPlayer":"true"},
 {"name":"Life Time-A🇹🇭",
-"image":"https://i.imgur.com/hFfvu6e.png",
+"image":"https://dookeela.live/uploads/1720781589.png",
 "url":"https://dookeela.live/live-tv/lifetime",
 "playInNatPlayer":"true"},
 
 
 {"name":"True X-zyte-A🇹🇭",
-"image":"https://i.imgur.com/zkVyCwI.png",
+"image":"https://dookeela.live/uploads/1719206155.png",
 "url": "https://dookeela.live/live-tv/truex-zyte",
 "playInNatPlayer": "true"},
 
@@ -230,23 +230,23 @@ userAgent:"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/
 
 
 {"name":"KBS World-B",
-"image":"https://i.imgur.com/tKN1FU8.png",
+"image":"https://dookeela.live/uploads/1719897483.png",
 "url": "https://dookeela.live/live-tv/kbsworld",
 "playInNatPlayer": "true"},
 
 {"name":"KBS Korea",
-"image":"https://i.imgur.com/Na5xId1.png",
+"image":"https://dookeela.live/uploads/1725961079.png",
 "url": "https://dookeela.live/live-tv/kbskorea",
 "playInNatPlayer": "true"},
 
 {"name":"Kix",
-"image":"https://i.imgur.com/22Mc1rD.png",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/150px-KIX_logo.svg.png",
 "url": "http://210.210.155.66/h/h220/02.m3u8",
 "playInNatPlayer": "true"},
 
 
 {"name":"tvN-B",
-"image":"https://i.imgur.com/pSI1QcY.png",
+"image":"https://dookeela.live/uploads/1703833429.png",
 "url": "https://dookeela.live/live-tv/tvn-indonesia",
 "playInNatPlayer": "true"
 

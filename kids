@@ -60,8 +60,8 @@
 
 
 {"name": "Nick Jr-A",
-"image": "https://i.imgur.com/2l1BWW7.png",
-"url": "https://dookeela.live/uploads/1708344362.png",
+"image": "https://dookeela.live/uploads/1708344362.png",
+"url": "https://dookeela.live/live-tv/nickjr",
 "playInNatPlayer": "true"},
 
 {"name": "Nick Jr-B",
@@ -70,12 +70,12 @@
 "playInNatPlayer": "true"},
 
 {"name":"Nickelodeon-A",
-"image":"https://i.imgur.com/hrtoXA7.png",
+"image":"https://dookeela.live/uploads/1708344306.png",
 "url":"https://dookeela.live/live-tv/nickelodeon",
 "playInNatPlayer": "true"},
 
 {"name":"Nickelodeon-B",
-"image":"https://i.imgur.com/hrtoXA7.png",
+"image":"https://dookeela.live/uploads/1708344306.png",
 "url":"https://goal-th.com/ช่องรายการทีวี/?id=315&tv=Nickelodeon",
 "playInNatPlayer": "true"},
 
@@ -110,7 +110,7 @@
 "playInNatPlayer":"true"},
 
 {"name":"PBS Kids",
-"image":"https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg",
+"image":"https://dookeela.live/uploads/1730064747.png",
 "url":"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
 "playInNatPlayer":"true"},
 

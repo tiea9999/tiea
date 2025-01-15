@@ -43,17 +43,6 @@
 "url":"https://dookeela.live/live-tv/crime-investigation",
 "playInNatPlayer": "true"},
 
-{"name":"Crime Investigation🇬🇧",
-"image":"https://dookeela.live/uploads/1714101661.png",
-"url":"https://streaming.livescorethai.net/iptv/uk-ci.stream/playlist.m3u8",
-"referer":"https://livescorethai.net/",
-"playInNatPlayer": "true"},
-
-{"name": "True Crime Xtra🇬🇧",
-"image": "https://i.imgur.com/ZNz44jf.png",
-"url":"https://streaming.livescorethai.net/iptv/uk-cbsdrama.stream/chunks.m3u8",
-"referer":"https://livescorethai.net/",
-"playInNatPlayer":"true"},
 
 {"name":"True Ex Wild🇹🇭",
 "image":"https://dookeela.live/uploads/1724166218.png",
@@ -95,10 +84,7 @@
 "url":"https://dookeela.live/live-tv/mysci",
 "playInNatPlayer":"true"},
 
-{"name":"Global-Trekker🇹🇭",
-"image":"https://i.imgur.com/qDhHMf4.png",
-"url":"https://dookeela.live/live-tv/global-trekker-channel",
-"playInNatPlayer": "true"},
+
 
 {"name":"FW Documentary",
 "image":"https://www.fileinw.com/postor/20240617204638FWDoc.jpg",

@@ -29,22 +29,22 @@
 "playInNatPlayer": "true"},
 
 {"name":"History🇹🇭",
-"image":"https://i.imgur.com/XqLUjlV.png",
+"image":"https://dookeela.live/uploads/1713231372.png",
 "url": "https://dookeela.live/live-tv/history",
 "playInNatPlayer": "true"},
 
 {"name":"History🇬🇧",
-"image":"https://i.imgur.com/5QEtJBJ.png",
+"image":"https://dookeela.live/uploads/1713231372.png",
 "url":"https://streaming.livescorethai.net/iptv/uk-history.stream/playlist.m3u8",
 "referer":"https://livescorethai.net/"},
 
 {"name":"Crime🇹🇭",
-"image":"https://i.imgur.com/AXFOtAI.png",
+"image":"https://dookeela.live/uploads/1714101661.png",
 "url":"https://dookeela.live/live-tv/crime-investigation",
 "playInNatPlayer": "true"},
 
 {"name":"Crime Investigation🇬🇧",
-"image":"https://i.imgur.com/43x1AZT.png",
+"image":"https://dookeela.live/uploads/1714101661.png",
 "url":"https://streaming.livescorethai.net/iptv/uk-ci.stream/playlist.m3u8",
 "referer":"https://livescorethai.net/",
 "playInNatPlayer": "true"},
@@ -56,42 +56,42 @@
 "playInNatPlayer":"true"},
 
 {"name":"True Ex Wild🇹🇭",
-"image":"https://i.imgur.com/Q8OmNtJ.png",
+"image":"https://dookeela.live/uploads/1724166218.png",
 "url": "https://dookeela.live/live-tv/trueexplorewild",
 "playInNatPlayer": "true"},
 
 {"name": "True Ex Life🇹🇭",
-"image": "https://i.imgur.com/3kHKSJZ.png",
+"image": "https://dookeela.live/uploads/1724166670.png",
 "url": "https://dookeela.live/live-tv/trueexplorelife",
 "playInNatPlayer": "true"},
 
 {"name":"True Ex Sci🇹🇭",
-"image":"https://i.imgur.com/yAqxIyy.png",
+"image":"https://dookeela.live/uploads/1724167268.png",
 "url": "https://dookeela.live/live-tv/trueexploresci",
 "playInNatPlayer": "true"},
 
 {"name":"Animal Planet🇹🇭",
-"image":"https://i.imgur.com/KtF82Z0.png",
+"image":"https://dookeela.live/uploads/1706112700.png",
 "url": "https://dookeela.live/live-tv/animal-planet",
 "playInNatPlayer": "true"},
 
 {"name":"Animal Planet HD",
-"image":"https://i.imgur.com/5Vfqolq.png",
+"image":"https://dookeela.live/uploads/1706112700.png",
 "url":"https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8",
 "playInNatPlayer": "true"},
 
 {"name":"สำรวจโลก🇹🇭",
-"image":"https://i.imgur.com/DDUY0cf.png",
+"image":"https://dookeela.live/uploads/1705536821.png",
 "url":"https://dookeela.live/live-tv/samrujlok",
 "playInNatPlayer":"true"},
 
 {"name":"Animal Show🇹🇭",
-"image":"https://i.imgur.com/rKc5zvV.png",
+"image":"https://dookeela.live/uploads/1705537126.png",
 "url":"https://dookeela.live/live-tv/animalshow",
 "playInNatPlayer":"true"},
 
 {"name":"MYSCI🇹🇭",
-"image":"https://i.imgur.com/zbJRG3N.png",
+"image":"https://dookeela.live/uploads/1705536991.png",
 "url":"https://dookeela.live/live-tv/mysci",
 "playInNatPlayer":"true"},
 
@@ -101,11 +101,14 @@
 "playInNatPlayer": "true"},
 
 {"name":"FW Documentary",
-"image":"https://i.imgur.com/AmF6PSU.png",
+"image":"https://www.fileinw.com/postor/20240617204638FWDoc.jpg",
 "url":"https://www.inwiptv.com/player_demo.php?channel=91303",
 "referer":"https://www.inwiptv.com/",
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer":"true"},
+"playInNatPlayer":"true"
+}
+]
+},
 
 {"name":"Pet Club TV",
 "image":"https://i.imgur.com/mFDQpkF.png",

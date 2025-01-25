@@ -133,25 +133,74 @@
 "url": "https://dookeela.live/live-tv/hbo",
 "playInNatPlayer": "true"},
 
+{
+"name": "HBO ™ ",
+"image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",
+"imageScale": "fitStart",
+"url": "https://wandering-oldman.github.io/3bb-hbo/3bb-hbo.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
 {"name": "HBO Sig",
 "image": "https://i.imgur.com/dblC0JA.png",
 "url": "https://dookeela.live/live-tv/hbo-signature",
 "playInNatPlayer": "true"},
+{
+"name":"HBO SIGNATURE ™ ",
+"image":"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",
+"url":"https://wandering-oldman.github.io/3bb-hbo-signature/3bb-hbo-signature.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
 {"name": "HBO Hits",
 "image": "https://i.imgur.com/WX13Xmr.png",
 "url": "https://dookeela.live/live-tv/hbo-hits",
 "playInNatPlayer": "true"},
 
+{
+"name": "HBO HITS ™ ",
+"image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",
+"url": "https://wandering-oldman.github.io/3bb-hbo-hits/3bb-hbo-hits.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+
 {"name": "HBO Fam",
 "image": "https://i.imgur.com/Av91xj7.png",
 "url": "https://dookeela.live/live-tv/hbo-family",
 "playInNatPlayer": "true"},
 
+{
+"name": "HBO family ™ ",
+"image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",
+"imageScale": "fitStart",
+"url": "https://wandering-oldman.github.io/3bb-hbo-family/3bb-hbo-family.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+
+
 {"name": "HBO Cinemax",
 "image": "https://i.imgur.com/hghf8kw.png",
 "url": "https://dookeela.live/live-tv/cinemax",
 "playInNatPlayer": "true"},
+
+{
+"name":"Cinemax ™ ",
+"image":"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
+"url":"https://wandering-oldman.github.io/3bb-cinemax/cinemax.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
 {"name": "3BB Asian",
 "image": "https://i.imgur.com/CRBVtql.png",

@@ -9,7 +9,7 @@
      "name": "test",
      "image": "https://s2.dmcdn.net/v/RoWKp1bGybHs8gB--/x720",  
      "url": "https://www.nung.tv/serie/face-me-2024/?episode=ep1",
-     "referer":"https://player.nung.tv/", "embed":"true", 
+     "referer":"https://player.nung.tv/","embed":"true", 
  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" 
 
 },
